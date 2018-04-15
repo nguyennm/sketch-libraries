@@ -1,0 +1,81 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "1D2C8B75-CFA2-4BF2-9D28-BEFBC6C44F42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37897EDE-312D-4E83-873C-E4058892D06A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BCDD2029-50D9-429E-8977-024590C5A817",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "214ED03E-1005-48CD-816E-061C8F1588CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4672E59-D084-4679-907B-AC3D2A2F4E70"
+    },
+    {
+      "class": "shapePath",
+      "id": "16B2BCE4-C906-4946-AC4C-EC93EC581BC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4732AF6-BADF-4045-9A55-66FB1C805BE4"
+    }
+  ],
+  "name": "Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9B21527-1CBC-457A-AAEE-14BF34065256",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

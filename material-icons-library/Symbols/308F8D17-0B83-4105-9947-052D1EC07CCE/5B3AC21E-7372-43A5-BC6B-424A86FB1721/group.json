@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5B3AC21E-7372-43A5-BC6B-424A86FB1721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6BFD78B-43F9-4354-A773-E8BF73660A0B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F3A33607-ED85-45EE-8C99-09A4C8C96363",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "506513FE-B0AF-4C00-BC2B-5E281A174C2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B12E3B81-F98C-4ACF-A257-D5F40492B384"
+    }
+  ],
+  "name": "ic_dialer_sip",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F5E1D0C-9F2E-4656-95AC-84CA981023BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

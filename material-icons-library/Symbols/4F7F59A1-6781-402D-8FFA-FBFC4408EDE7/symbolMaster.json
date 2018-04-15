@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0DC64EA4-DF07-47AD-A492-7BE252265C24",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "4F7F59A1-6781-402D-8FFA-FBFC4408EDE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E86B463-7B00-46EC-A58E-FEB91504CA98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFFACA83-63D3-4074-BD97-F116BA0D33AA",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 1612
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "150569ED-44FC-4532-BD0A-38BF82458749",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7FAFDB74-F51D-4154-B073-FD3E005FDFCA"
+    }
+  ],
+  "name": "Icons/Hardware/ic_keyboard_arrow_down",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C85ED65A-858E-4C68-8F7E-DFCDE2B99DAB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9C8E4C7E-8927-48C9-ADF0-FBB1A8E99A3A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7946D4A-6DD9-40AA-A81C-671035E82E15",
+    "guides": [
+    ]
+  }
+}

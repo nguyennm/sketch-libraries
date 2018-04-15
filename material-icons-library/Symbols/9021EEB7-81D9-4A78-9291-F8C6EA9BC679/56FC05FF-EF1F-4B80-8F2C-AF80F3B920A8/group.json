@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "56FC05FF-EF1F-4B80-8F2C-AF80F3B920A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54FE744E-06B6-4711-AD6F-E22407940BCF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B30BA288-859C-4EC4-AFC7-8362CECDA54E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FC0AFBC-CB6A-4983-BB54-B52064CC17A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FBFB013-DAF7-4438-A842-ED6F0FF016FC"
+    }
+  ],
+  "name": "ic_photo_camera",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A064634-23D3-4919-B913-9F74D5E92932",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

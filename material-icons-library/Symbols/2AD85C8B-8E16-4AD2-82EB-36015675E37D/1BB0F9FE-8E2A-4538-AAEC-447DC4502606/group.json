@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1BB0F9FE-8E2A-4538-AAEC-447DC4502606",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47C1766A-666D-4FD3-B1FD-40B5ACB2FA34",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7FFBD8CC-4CB1-4666-B014-20DE10D6EBEB",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFC7127A-B596-4A2A-BD26-411DA5F775C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A161E64F-EB76-4584-B1C0-8037CE4B8C7C"
+    }
+  ],
+  "name": "ic_donut_small",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15BC4EDD-79B8-4FFD-A3AF-EC9E7516C3CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

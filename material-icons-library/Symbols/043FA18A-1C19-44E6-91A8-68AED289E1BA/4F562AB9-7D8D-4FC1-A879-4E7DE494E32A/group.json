@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4F562AB9-7D8D-4FC1-A879-4E7DE494E32A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0660F9C9-709D-41AD-B70C-F93082E3D627",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D9CFB3C8-D30B-4D1D-B7E8-F37D6B1C5B4B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DDD64CB9-2D8F-4EC4-9CEE-A883305C322C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04F2C547-1302-4B09-B6E1-02492D31C26D"
+    }
+  ],
+  "name": "ic_timer_3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "457E4A0E-C390-457C-A9FE-699307FEC74D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

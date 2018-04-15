@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "48357462-E940-46A3-899C-63234654561D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AE54D98-578A-486E-93D7-CD279E4215B3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D44D63B9-0E34-40A9-9AD5-FFD50DFFA71A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C00BD36C-5180-4306-98EE-EA31A0A82316"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9D60D7F-F131-4765-9AFC-CA747CD57AA4"
+    }
+  ],
+  "name": "ic_speaker",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D3DE61E-EC16-4FDA-9267-DE766C6F09FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

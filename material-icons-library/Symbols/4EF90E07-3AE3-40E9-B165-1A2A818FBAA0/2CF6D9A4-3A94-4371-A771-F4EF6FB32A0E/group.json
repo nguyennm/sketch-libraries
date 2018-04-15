@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2CF6D9A4-3A94-4371-A771-F4EF6FB32A0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88993201-8FF9-4C7E-9351-4E3E2CC6B5F2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B2A49121-62DF-4A67-8CB2-5395B610CA61",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5221621A-CFD7-4713-9282-B74693A6BEE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF22D37D-2878-4BFE-98C2-D02D513AAB8F"
+    }
+  ],
+  "name": "ic_perm_camera_mic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D7E2115-D1B5-4915-BC71-8BCDA1C977C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

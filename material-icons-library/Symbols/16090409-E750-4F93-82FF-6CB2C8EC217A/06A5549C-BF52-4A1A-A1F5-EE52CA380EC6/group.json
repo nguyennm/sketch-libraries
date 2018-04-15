@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "06A5549C-BF52-4A1A-A1F5-EE52CA380EC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AEE92B3-C54E-4D57-8C36-C1BC597F4E36",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AE3CF9EE-0D73-4EFA-B0B2-AD51413A150E",
+    "height": 24,
+    "width": 23.99999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0E7C53D-18BD-4B3D-85A3-66A7AEB786F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92E2F500-41E7-4A53-8E9B-7A463ED4F31D"
+    }
+  ],
+  "name": "ic_message",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3346548-2A82-4F3F-8983-9124B06BEFF3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

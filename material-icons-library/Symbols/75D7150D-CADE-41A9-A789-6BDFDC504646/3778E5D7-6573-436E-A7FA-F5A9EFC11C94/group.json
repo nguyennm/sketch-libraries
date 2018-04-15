@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3778E5D7-6573-436E-A7FA-F5A9EFC11C94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A8CC028-CD53-402C-A4DF-1C637DF73E43",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1B4157B3-2F54-4567-9FFF-0E59CE8BA593",
+    "height": 24,
+    "width": 23.99999999999994,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1621D4B-CB61-463E-A9DE-33D71EE955DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4928F9EF-3DB2-440B-B03A-4243705853E7"
+    }
+  ],
+  "name": "ic_airplanemode_inactive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3223C51-52B3-4A65-A001-4861C6961D01",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "37EBCF94-8875-4B73-8CFE-09975C4ABE4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "245BFAD3-3CB8-4F89-843B-CEEE9E486307",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "45E4F939-337B-4F1F-B009-F5C8BBB1E646",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4B76ED8-9BED-4B16-8389-B68CB42D2565"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBF280E1-AD0D-4BB6-81DF-186DF0D7B526"
+    }
+  ],
+  "name": "ic_keyboard_tab",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86BC5694-2393-462D-9D8F-6BCD8E09B28E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4659ED4B-AB56-4222-8F2C-38D98BBB4F94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E60D88C-016F-4EFB-8E0D-2D9621AC81D1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2A922AB2-8B85-4A2D-9943-E0C298CF8B42",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2EF8284C-51EE-427F-ABCF-CC8604BF949F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FCF1642-2FFD-4C23-B1D1-5C689FEC85E0"
+    }
+  ],
+  "name": "ic_android",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "440600FE-23DA-4F0F-8A8D-F0C7B2D40F2B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

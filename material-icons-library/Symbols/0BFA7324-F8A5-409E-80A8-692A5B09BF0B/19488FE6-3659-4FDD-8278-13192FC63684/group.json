@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "19488FE6-3659-4FDD-8278-13192FC63684",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A456971-660B-4F80-9F23-EA2CC043FC7A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BD680CF9-DCD5-4AAD-99E5-CAC95BCB275B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B3BF8D4C-D99C-4008-9781-0156D54FBCAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C060C333-7DFC-4009-BD5E-624B9E5740F3"
+    }
+  ],
+  "name": "ic_portable_wifi_off",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32C50C99-1F98-4A11-B9B6-8D9C6FC6204F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

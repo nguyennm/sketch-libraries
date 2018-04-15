@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "42A3846D-53E7-48E3-946A-DE8EED8E6F47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "408F4233-4268-49CE-A7CA-3034F182DE8B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E9BD09A3-5449-4E1D-B2DD-ED6228FA3F2F",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF276438-E7F9-414F-B61F-CC0DD46DD594"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D6E23D4-1AAC-4F5D-B003-E9D9301AA427"
+    }
+  ],
+  "name": "ic_import_contacts",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE5B8E0A-2325-4546-9CDA-816C0DBCC583",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

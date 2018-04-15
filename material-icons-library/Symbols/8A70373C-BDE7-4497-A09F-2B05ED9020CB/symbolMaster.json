@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4FFC4DFA-7125-407D-8C6C-2E68D6141ACF",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "8A70373C-BDE7-4497-A09F-2B05ED9020CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48B55261-612F-4E16-A2C8-F7902B2AB4B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99097480-E723-43CA-8D58-5FFFD2D07C96",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 3844
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "910511F8-84A9-48E6-99BF-9CD3710D139C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "59E95B49-3B57-4072-9064-39FA4FDF0458"
+    }
+  ],
+  "name": "Icons/Hardware/ic_phonelink",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D5E8108-2354-45AB-B627-4EA2CE96CFDE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EC06A0EE-47D3-4BFA-AB38-1B841477BE19",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D538200-2D17-4D47-B9D7-B45ED2427478",
+    "guides": [
+    ]
+  }
+}

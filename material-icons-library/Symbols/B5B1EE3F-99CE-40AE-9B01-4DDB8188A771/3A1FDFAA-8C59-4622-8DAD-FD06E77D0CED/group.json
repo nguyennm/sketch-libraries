@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3A1FDFAA-8C59-4622-8DAD-FD06E77D0CED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3148576-0612-4CAE-8897-F8E8404C2907",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C76BAF03-4A70-4820-AB75-79EFE85DBE3E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "45C92E28-464D-4DFD-97AE-ADFB594C5B42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E45C87DF-41F7-4306-8950-9E3A09DB3A97"
+    }
+  ],
+  "name": "ic_tablet_mac",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "963984E0-7273-4A24-B49A-F9C3D953B369",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

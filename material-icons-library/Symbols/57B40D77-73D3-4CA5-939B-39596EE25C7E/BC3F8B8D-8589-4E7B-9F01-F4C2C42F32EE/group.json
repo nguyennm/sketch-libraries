@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BC3F8B8D-8589-4E7B-9F01-F4C2C42F32EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1FF9A80-02DE-48ED-8126-C70CFCB3D66D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "79F47564-D714-45A9-AD9D-0CD46FD08E70",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F7B4A0B-1CCB-4A64-A84F-A6A2432EA5DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFBBA45B-9209-4FC0-B4B5-A4FF4388DBB6"
+    }
+  ],
+  "name": "ic_camera_enhance",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C91EAAD-06C9-41EA-89E6-45DFDA17C54E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

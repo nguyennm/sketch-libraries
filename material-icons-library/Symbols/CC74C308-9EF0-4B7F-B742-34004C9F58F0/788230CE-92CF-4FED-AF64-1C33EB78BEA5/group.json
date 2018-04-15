@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "788230CE-92CF-4FED-AF64-1C33EB78BEA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B347585-3C75-41E7-B316-20084BAD2487",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6BB3DD1D-0168-4FE0-86B0-9C5402C08E1A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63A727F6-B804-4675-8ED4-1A1266E32029"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C46F4D5-C5EA-461F-A4B5-8E379520B080"
+    }
+  ],
+  "name": "ic_router",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1C4171F-8EC3-46DB-86F2-E7657BBE8548",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

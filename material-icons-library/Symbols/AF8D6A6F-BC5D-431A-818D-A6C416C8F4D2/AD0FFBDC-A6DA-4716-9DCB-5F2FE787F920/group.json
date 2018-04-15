@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AD0FFBDC-A6DA-4716-9DCB-5F2FE787F920",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9070A960-1AFD-491D-AAA7-FA3985C0F451",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B2E3EBCF-15C4-4EDA-9A7F-3DF62FC94B87",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1536F5E4-83B2-4DBC-A67C-03CC4FB03DBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E6661D4-34CA-4EA7-9724-CDD9E32FDBEE"
+    }
+  ],
+  "name": "ic_pregnant_woman",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F584812-6ECF-47FA-AAF7-DBAE975536A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

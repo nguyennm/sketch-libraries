@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "056B3587-FFD1-4F5F-B723-08C48FBE1F6F",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "5D6B86C6-C465-4339-A05F-4CBB009AAB3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86AFCC2E-DCA6-4755-BDD9-0AAF4C6BC058",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "177BF368-4CF0-4D37-9B72-C4FA100E0E93",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 2232
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05C57E42-7E30-47D1-8B0D-76F21AC28F90",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9EF48690-3FAE-4225-BE59-302F3A347B7E"
+    }
+  ],
+  "name": "Icons/Hardware/ic_keyboard_capslock",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3100687-918A-457B-BD4E-E4E59CBAF4D7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A0BB467D-3F07-42EA-9A67-FC37ADD19F40",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5C548BB8-9A75-48B5-B87A-7B942128B0DF",
+    "guides": [
+    ]
+  }
+}

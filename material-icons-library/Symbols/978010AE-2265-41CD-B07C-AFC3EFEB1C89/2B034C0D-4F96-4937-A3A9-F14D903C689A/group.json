@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2B034C0D-4F96-4937-A3A9-F14D903C689A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "081E23E5-3EDE-42F9-B4E6-0E39737E7B7E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C3F97CF9-8D4D-402B-9679-A1835962465E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4FE8ADCB-D145-4364-89BD-2C8692417AED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CBB68FB-0AAB-4BA4-96E3-39543B2154EB"
+    }
+  ],
+  "name": "ic_markunread_mailbox",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "261ACF41-1DE8-48A5-93C8-3F1AA307AD01",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

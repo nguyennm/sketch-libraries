@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "718F3297-628C-4E95-A4BA-73B95E96B091",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A56A418-EBA0-431A-9639-AF44809A0825",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1D1651EE-B16C-4178-802B-6D1E1F7B228A",
+    "height": 24,
+    "width": 24.00000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C6CB832-61C7-473E-9077-8226BB3D91AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51EDC1B3-66AC-4796-ADCF-51EBDEC35D5B"
+    }
+  ],
+  "name": "ic_usb",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39851BA8-AA39-41AD-8E79-BDF608AA38C9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

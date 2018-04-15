@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "635EE4F2-8D86-4DFB-B637-2CB57751B6E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC524CCA-70C4-4CF3-86F9-CA0A3B4C12FF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2E7AE95C-E204-40B8-B073-2B74B172B279",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FDF81441-FCBF-41E5-B42B-AFB438D99594"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D421253D-4716-4C8F-8414-B0CF8D8AD9BF"
+    }
+  ],
+  "name": "ic_sentiment_neutral",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D57D0FCC-378A-4481-B000-653339AC5367",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

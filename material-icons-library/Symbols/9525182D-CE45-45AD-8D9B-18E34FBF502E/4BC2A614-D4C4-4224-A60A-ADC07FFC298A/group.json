@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4BC2A614-D4C4-4224-A60A-ADC07FFC298A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FEC6DC9-FAE9-40EE-A338-B9FFF6174072",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "91471300-B5F1-4FDD-B301-B0948AD7D494",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A62EFAD4-6531-4BD7-864A-21F856573A4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C192C48-974D-4A6B-80F7-DDCE8A5D323E"
+    }
+  ],
+  "name": "ic_panorama_fish_eye",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2191FC99-891E-412B-B756-29AD04172CD4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

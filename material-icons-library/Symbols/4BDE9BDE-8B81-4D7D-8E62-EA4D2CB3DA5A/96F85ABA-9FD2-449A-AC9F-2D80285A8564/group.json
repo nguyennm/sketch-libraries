@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "96F85ABA-9FD2-449A-AC9F-2D80285A8564",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BA4D9BF-D6C1-4302-A1ED-213272123587",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BF56AB40-F74F-4CF2-9869-FDA3AB2997A7",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA441F08-469B-4E3C-8DC1-397592C0F62F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA7A03AC-3A1C-4097-B401-171D8D74CB10"
+    }
+  ],
+  "name": "ic_vpn_key",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECAFBED3-6A5B-4D69-B822-568CD2BA0D39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

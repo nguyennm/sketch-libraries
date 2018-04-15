@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A4F9AE30-D6C5-4358-8B18-69E8D45FEF10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCFAD3C1-3A38-48CE-AB19-12AE1B8CB418",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "124BA72C-CCA3-47C9-8836-E0CB00E1ACB7",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A9C45F7D-8678-40BD-8E20-E21F125B7248"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D18A324-74D8-4F00-9D87-B5ECBFE35FB5"
+    }
+  ],
+  "name": "ic_settings_input_hdmi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CD53BAE-0E04-48B0-8A89-2EF659D26537",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

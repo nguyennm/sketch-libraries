@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CC14BB8D-E9A3-4100-8C17-3B7C5E1321B0",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "BBAB4EE4-77FB-458D-AA9C-A900B8988A10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8942A993-B995-484B-ADC1-D3769FF7C70D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB3E5E18-5ABF-459E-9951-CF363B954B50",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 496
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "799381ED-8AAD-47CF-ADB5-7748BC65F567",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BCEE0128-F553-4BDC-8C66-FC7EA4B1F374"
+    }
+  ],
+  "name": "Icons/Hardware/ic_desktop_windows",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89017400-8DDC-4C8C-8472-411AA62F366A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7A081F53-EB83-4D5C-AF96-CA9F77880924",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26E6C57A-134E-4AF2-9B58-012201DC810F",
+    "guides": [
+    ]
+  }
+}

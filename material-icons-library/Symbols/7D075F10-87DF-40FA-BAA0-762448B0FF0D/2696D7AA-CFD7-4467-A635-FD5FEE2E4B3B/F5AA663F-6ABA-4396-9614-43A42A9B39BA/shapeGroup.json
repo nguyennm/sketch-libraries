@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F5AA663F-6ABA-4396-9614-43A42A9B39BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF61C73E-28C1-4460-A3FE-DEA58E512AFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "87DD2005-E180-49E0-9C1B-6CF6F33427C4",
+    "height": 16,
+    "width": 18,
+    "x": 3,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D7C9B76C-F21C-4773-81CB-C8B3D35AFEC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EA85B9C-08F1-4A0A-842A-582FD036AF92"
+    },
+    {
+      "class": "shapePath",
+      "id": "79E81E62-0420-414A-BDAF-1E92384CAF31"
+    },
+    {
+      "class": "shapePath",
+      "id": "15514CBD-E6E3-4D44-9DD0-3D0177F87C14"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C96DC1B-10FC-4E0E-86B4-FC3DB3347123"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D329D68-37E3-4A45-8827-10C7A1B99A0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "8BEE450C-1EAF-4061-B011-7953947390C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E80DCFF-3F4B-465C-99D0-0704A24E139C"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A472FE7-80BB-4C2F-BC42-C439BE917C04"
+    },
+    {
+      "class": "shapePath",
+      "id": "1AE6CDA4-3D26-4BDC-B681-C191A36AA69D"
+    },
+    {
+      "class": "shapePath",
+      "id": "83826264-CC38-47DA-B7D7-A14047AC8B14"
+    }
+  ],
+  "name": "Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5D2B35B-1C80-42FF-A515-18B5EFE90A07",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "18451965-18A8-4C69-BCB5-D88E3E3A5E17",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 15,
+  "do_objectID": "B742BCAC-3354-4877-B689-6A12BD102FEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64BB8827-ACE9-402D-99E5-AA7A14D387E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10F432BB-C0BE-4CD5-9843-E73DFE518998",
+    "height": 24,
+    "width": 24,
+    "x": 896,
+    "y": 4464
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E86C0AB5-CA80-4FD6-9897-50396669302F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "766A9445-6CFF-4155-A1F2-89217CF389AF"
+    }
+  ],
+  "name": "Icons/Device/ic_sd_storage",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19C28AA3-F8CA-4BF4-AFBC-87FC66212F63",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8D854F07-425C-4A7A-9B87-38F4016F3561",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6157AADD-4315-486E-A646-686679B36264",
+    "guides": [
+    ]
+  }
+}

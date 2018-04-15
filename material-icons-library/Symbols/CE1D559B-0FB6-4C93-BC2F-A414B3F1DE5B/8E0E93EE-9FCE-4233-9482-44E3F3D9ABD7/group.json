@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8E0E93EE-9FCE-4233-9482-44E3F3D9ABD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10A1072F-E0AD-411F-945C-A9E4E9F02253",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D77E625D-3FD8-4AAD-AAAC-2646A0103816",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C30197F-AD63-4A07-9B7D-EC78A5BA66A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D457344C-60BA-4C0E-9908-0E3D58D55059"
+    }
+  ],
+  "name": "ic_flight_land",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42D2B77A-9F57-4C2C-A729-3338E8E426A9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

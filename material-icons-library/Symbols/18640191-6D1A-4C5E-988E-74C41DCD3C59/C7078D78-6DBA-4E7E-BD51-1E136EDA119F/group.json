@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C7078D78-6DBA-4E7E-BD51-1E136EDA119F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B68DF100-856B-4E7C-86AC-B74799E10E2A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7E22F8CD-CC56-4F62-B830-EDCA59F08690",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BEA057EF-3A4C-494F-8B36-7F84282A3FAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BF3CA9D-A5C7-485E-80A5-B4D669FE38C5"
+    }
+  ],
+  "name": "ic_theaters",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5823FAB7-ED1E-4828-8DD9-BF481E0DDE09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

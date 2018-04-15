@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "44155B5C-0DC6-4668-ACED-89C81945478D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B83579D-8FCE-420B-8A08-E346D18B1044",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CD2336DB-63E5-45AE-BA8B-6594B73B4792",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CA3B626-E7F2-4645-90DE-6FD3F03C693D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A4119B8-72C2-4DFA-9633-667D746A2C32"
+    }
+  ],
+  "name": "ic_perm_scan_wifi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B28B8D9-51A6-46DC-A5ED-4DCB22A862BD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

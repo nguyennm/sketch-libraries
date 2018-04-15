@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2D7B9906-6570-42F6-90A6-015D27F46004",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2296C11A-5B77-4886-B8CE-DE281CFE832A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "69004FF5-5159-4012-BF50-60AE53AF9D04",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9DD78A49-6443-4EE5-9565-0AB2C618AA56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "664909EE-479B-4E00-9BFE-3397A6BE238D"
+    }
+  ],
+  "name": "ic_redo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFF60E3A-D196-4609-818B-2B6A218D7B1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

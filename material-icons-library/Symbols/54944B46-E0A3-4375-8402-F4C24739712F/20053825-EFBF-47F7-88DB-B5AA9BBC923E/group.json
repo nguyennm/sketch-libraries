@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "20053825-EFBF-47F7-88DB-B5AA9BBC923E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD9E0BD6-096A-4C4F-9B3E-280BEA55020A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F8141FB6-2095-4B0C-A879-69CC185867A1",
+    "height": 24,
+    "width": 24.00000000000006,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22D9A48F-C583-4B29-BADE-FF3D5B0FDD9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F2FD499-BBC0-41D7-A8D5-1BAE31D6C84B"
+    }
+  ],
+  "name": "ic_gps_off",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FD3E909-9B65-4F1B-873C-1DA088B4C9E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

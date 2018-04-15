@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8EDE664B-E655-462F-8891-6859C6D9A595",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F40392D2-7CDE-462B-9943-093D47256A74",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F29BD17F-CA6F-4907-8EDC-AE6DE4F1F917",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2689F74C-37B7-49D1-BF05-FBEF791A35A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9540F20-D567-4601-A3C4-E297E062ABB4"
+    }
+  ],
+  "name": "ic_lightbulb_outline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CD27C41-EB50-4ABC-BFDD-3F75621D435A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

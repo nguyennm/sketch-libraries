@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4B4D8C51-1A5F-45E3-8224-FF5B9225EFDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06C1BD39-A228-41C4-A61E-AC5808A6213C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "51EFEF18-D865-4638-AA5A-64FA7FD3BC4F",
+    "height": 24,
+    "width": 23.99999999999994,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EBA4B803-548B-4ED2-BA47-697D3EEAEE82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4CE4CED3-E68D-4CD8-8F66-19E378150465"
+    }
+  ],
+  "name": "ic_bluetooth_searching",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DA890C5-3080-45ED-B22D-C3B6408D7E9C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

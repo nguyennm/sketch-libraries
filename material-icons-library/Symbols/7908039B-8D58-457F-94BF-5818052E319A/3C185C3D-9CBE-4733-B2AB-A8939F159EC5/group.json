@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3C185C3D-9CBE-4733-B2AB-A8939F159EC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "850C71BE-AAD3-467B-A524-4F6DECFE19CE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "049FCA67-2B26-4A48-8C4E-C0D3CFC98797",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C1BC3277-FFE7-4769-A6A5-3FA902087822"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A9124FC-FB39-404F-902B-3078396162A9"
+    }
+  ],
+  "name": "ic_settings_phone",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "939D968A-9502-4566-B3F7-22006DD16CA7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

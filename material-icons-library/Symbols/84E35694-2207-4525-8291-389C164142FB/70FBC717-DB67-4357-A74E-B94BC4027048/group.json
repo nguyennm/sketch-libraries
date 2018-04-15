@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "70FBC717-DB67-4357-A74E-B94BC4027048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A2FFBD5-38DF-411F-A660-C32A29D01F1F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7B45BC95-4B18-4F08-AA6A-5065AE2099EF",
+    "height": 24,
+    "width": 24.00000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DE7B1034-0BA8-41F1-8D2F-09C3B11658C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB95AFC5-C28E-4B0F-8DCA-686385CF5506"
+    }
+  ],
+  "name": "ic_forum",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29E35084-A445-45C1-9072-97F420C3DCBE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

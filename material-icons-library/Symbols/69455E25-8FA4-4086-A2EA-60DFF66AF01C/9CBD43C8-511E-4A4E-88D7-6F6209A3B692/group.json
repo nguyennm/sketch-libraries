@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "9CBD43C8-511E-4A4E-88D7-6F6209A3B692",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8032517-03B4-476A-84C0-FE201BDCD6D3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "210331E3-8769-4CEC-A848-66551437C1CF",
+    "height": 24,
+    "width": 23.99999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A198E59F-7C45-4063-87B2-C5A41B696271"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C273A22-4369-4B13-900D-913A2808C25A"
+    }
+  ],
+  "name": "ic_ring_volume",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAC6E7BD-D912-4503-8C36-D3E5248BE4E8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "006583ED-F5BF-4CCB-800E-EABD7BC128D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AAC7808-C7D7-4132-90FB-109DF12729FA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2E158856-CB59-4EC9-800A-8678B7EAAF8D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EEF018A5-60BC-44B6-BFB9-4DD505E9B245"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A51DC34D-7C13-4055-9753-3E363BCF7D82"
+    }
+  ],
+  "name": "ic_whatshot",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54372A48-7B66-455D-A24F-8A3FD20ABB66",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

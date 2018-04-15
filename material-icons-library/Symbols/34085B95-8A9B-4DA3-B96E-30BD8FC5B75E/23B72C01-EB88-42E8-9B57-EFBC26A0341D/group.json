@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "23B72C01-EB88-42E8-9B57-EFBC26A0341D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2232C49-B2C5-4097-9B12-97CC2343B9C3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "50054542-7505-4E3D-BB17-8CDCD0744663",
+    "height": 24,
+    "width": 23.99999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "669FF657-B55E-4DBD-AD59-ACCBFB8B4766"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8774B12E-DB00-41DA-BE64-DE50400A2579"
+    }
+  ],
+  "name": "ic_access_alarms",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52828745-2509-4567-8957-0DB47B79C8ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

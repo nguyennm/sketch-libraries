@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6D145FBD-852C-45E4-B877-08FCC67CEEB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9562960-B4AA-4DD4-B5D5-EC7F3E7EDB31",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "78E5B63C-4E66-4CE7-8266-29FF72FB5A37",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "363F2266-8F8B-4001-9E07-F33C1E438899"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81AFB4A4-A520-4560-8B18-5C16F52500B0"
+    }
+  ],
+  "name": "ic_dvr",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15E99C25-2BDD-4BB0-94E7-1A25C0F8828B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

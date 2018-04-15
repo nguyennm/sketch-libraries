@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E8CC0C8E-46C0-47B0-90D3-EA487A3F4B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "535F8C59-2108-487D-B92A-7A98E9849F68",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7DA28A07-FF52-46F7-90DC-0395E1E65D64",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8250A2B0-B7BB-435B-B4C3-C5AB7C97CCD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1CCFFE4B-2A6B-4C77-B908-5D8C83AC5B43"
+    }
+  ],
+  "name": "ic_wallpaper",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97C2A86D-247E-478B-B2DF-321ED8CD29A8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

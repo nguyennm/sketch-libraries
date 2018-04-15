@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "6850BDE7-BB65-4492-A769-56CF89B28DA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FA97629-130A-498A-AA02-285E76AE196B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14F65183-87EF-495F-9BEE-2D507825703A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B218357E-8470-4019-AD04-2E259D328EBB"
+    }
+  ],
+  "name": "ic_star_half",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47CE9E45-0317-43B7-AB96-35B2D0F27583",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

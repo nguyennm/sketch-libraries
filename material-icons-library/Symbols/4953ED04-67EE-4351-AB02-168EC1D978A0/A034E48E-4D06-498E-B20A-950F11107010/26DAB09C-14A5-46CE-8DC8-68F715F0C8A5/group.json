@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "26DAB09C-14A5-46CE-8DC8-68F715F0C8A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "214D2470-0D35-4426-A268-DCC781845B2B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CC47D206-4480-43BA-A28B-917DEDDABB00",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "387E1BF2-8865-4E24-AB7E-673F9989FB2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17C90DDA-92B8-41A7-AC7A-14A4CAFF8147"
+    }
+  ],
+  "name": "ic_radio_button_unchecked",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDD291C6-1B9D-4334-831A-B00297511A79",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C79B32C0-3C2B-46E2-BC73-936BE03A815B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72309F49-AE31-46D9-99B0-3624B0C71FC1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A426956F-A589-437E-841A-2F1BC1CDDB70",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C7CC65E-89C8-4EA0-A2F6-545676F0A558"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1201B6E-7CF3-4236-912D-5F663D3BEF93"
+    }
+  ],
+  "name": "ic_phone",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9526D919-AB76-4730-8837-44C94D5FF30B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

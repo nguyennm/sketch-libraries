@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "D293B093-C44E-4A48-A88B-942933EB29B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B200C92-EBDE-469C-8C74-20BEBD9C04C4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "75B987CA-4EE0-411C-B942-899219C0296B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA00BE75-6568-46DF-9DF4-FF88B869EB6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "835DB4B3-4CEC-4233-886B-3ED801DA2BB3"
+    }
+  ],
+  "name": "ic_headset_mic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C96070A-82D5-40D5-ACED-CEB9493AB268",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

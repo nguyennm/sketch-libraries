@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C535847E-456D-4A34-A074-F295BF68E474",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E16C03C8-28A0-442A-83EA-79F5C73AC871",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "25B53423-4C4F-49F0-BF4C-0CC43422A68F",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F192F8C9-1833-4E0B-B7B1-D94ACD993628"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EEEC5D3-812E-44C5-B830-EF25C1F00F62"
+    }
+  ],
+  "name": "ic_camera_front",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C0DE1A2-2FBA-4958-B5CD-3E374A1B90D0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

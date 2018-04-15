@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7FAFDB74-F51D-4154-B073-FD3E005FDFCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7612C47C-C759-4A91-B3DF-098D9C897E73",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DE0D6E90-59E1-410E-9E3B-2B661000BA41",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "638C12C4-301D-44A6-802A-DCB52BB7838A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9E73DAF-4C8A-48E8-B13A-C5F5495B3EE7"
+    }
+  ],
+  "name": "ic_keyboard_arrow_down",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "331158EF-DDB9-46FE-A855-98F4AC2E61BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

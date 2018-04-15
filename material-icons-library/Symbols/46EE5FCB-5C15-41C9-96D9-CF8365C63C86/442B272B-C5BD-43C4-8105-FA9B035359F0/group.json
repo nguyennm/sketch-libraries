@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "442B272B-C5BD-43C4-8105-FA9B035359F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55A7D9F0-FB5D-45EC-8F3C-F853943251B6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A6902982-119D-44F6-BB57-9F57BDCAAB83",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6953A5C-6914-4F03-8B30-7810E6C526FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44454E6A-E2AE-46DD-A9B6-7A80928DC2D9"
+    }
+  ],
+  "name": "ic_mail_outline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BDCBE03-C733-4810-81DA-1656B917EA68",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A5FFA6E2-F638-4CBF-B58B-CCD1B1C27E07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8EF3491-5DA7-4C02-837D-C86409233E54",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8B078450-2A5E-4623-8CC6-04CB18A0FF60",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F468C5CD-6BAB-4BD4-9517-1AD4714F39CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C119157-E89B-47DA-A077-37009B2937C1"
+    }
+  ],
+  "name": "ic_audiotrack",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F631D59-BA49-415B-AA90-77EB0CA5FD2D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

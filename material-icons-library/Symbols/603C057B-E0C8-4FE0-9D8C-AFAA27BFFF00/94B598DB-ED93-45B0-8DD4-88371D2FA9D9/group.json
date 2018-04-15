@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "94B598DB-ED93-45B0-8DD4-88371D2FA9D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE0BEBF7-C42B-4FC0-B3A0-4AF5CCA008CE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8BA417AE-C59F-4113-96DC-D0F432CA086A",
+    "height": 24,
+    "width": 23.99999999999994,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "466E71A4-EAC0-4D25-AF79-17716E9896BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACBF0B0B-6683-4A87-B19A-AB6F913F2CC2"
+    }
+  ],
+  "name": "ic_stay_current_landscape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "381E7A4F-6BB5-4224-8B16-56D06F5017A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

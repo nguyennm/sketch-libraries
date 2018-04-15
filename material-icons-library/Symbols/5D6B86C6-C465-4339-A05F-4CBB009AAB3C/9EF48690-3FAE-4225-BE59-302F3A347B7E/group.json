@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "9EF48690-3FAE-4225-BE59-302F3A347B7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE625BD5-191A-4274-92FA-4F33F48E6E4C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "03496A4E-E6C6-4B9C-AD7E-87AEB8877AC8",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CAA6F720-AFC9-4F07-91E0-B4BA6B5E2CDC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54120F02-2CAD-45E5-94F7-0AA0FA610791"
+    }
+  ],
+  "name": "ic_keyboard_capslock",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D71368A-E753-4E96-B48A-F2D47CD53967",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

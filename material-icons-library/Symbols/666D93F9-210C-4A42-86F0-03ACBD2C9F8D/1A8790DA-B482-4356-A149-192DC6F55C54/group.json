@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1A8790DA-B482-4356-A149-192DC6F55C54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5EEBCF1-A6A4-4C88-9019-434C0D306089",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CCE5FB13-5453-4635-BB1A-778B7E4D3715",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6A3D66D1-D415-4A59-ADB3-69202A2F66D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9353196-B2F7-4839-A101-82030E6FD85C"
+    }
+  ],
+  "name": "ic_alarm",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C69A048-1D15-4A7D-9A2E-EBFAFD8D1E5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

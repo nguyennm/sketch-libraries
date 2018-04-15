@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A2B159BA-9A23-49C4-86FE-351A27609403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1458F0A0-7C38-4F41-A2B9-63B42EC73CAA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "53E315ED-E355-4E8E-842B-715ED8994930",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6542C2A8-9B6B-46B4-8A2C-54D0C7B9DA55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9179D3D0-C298-4D67-B892-314FC4227D5F"
+    }
+  ],
+  "name": "ic_gamepad",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7ED7E0D2-5577-45B0-93B8-8A708286B2E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "DADF32AC-0AB5-44C4-A272-C218FEAA7FEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7006AF2-5388-419B-8ADC-64B623F84E8B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "61EE72B6-C840-4803-B712-3A38D27E9659",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "49296C4A-0698-408F-AEF2-85DA812FFD81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69E62760-126A-4B23-BEF8-609F2A79F661"
+    }
+  ],
+  "name": "ic_sentiment_very_satisfied *fixed*",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C795B2E0-233A-4837-B40D-C8B4A42F618C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_31af1110-2335-4c4c-a0b9-5b8771253c77",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a0c40250-229a-4f22-ac1a-7378a2a4ed22",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

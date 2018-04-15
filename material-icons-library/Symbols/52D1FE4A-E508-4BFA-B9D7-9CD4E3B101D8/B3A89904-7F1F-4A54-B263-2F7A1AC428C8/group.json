@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B3A89904-7F1F-4A54-B263-2F7A1AC428C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51D8AFD6-E5A8-436B-AF56-075FEA989B90",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8AADBB05-BA34-4016-A950-F25FEB8C8593",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6FF0EF9-DFF5-4C15-B195-613A938982C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24A1C46E-235B-4B7E-951E-42A298D2F17A"
+    }
+  ],
+  "name": "ic_vignette",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6ACE4828-96B6-4972-9C48-029B1BAA5FC3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

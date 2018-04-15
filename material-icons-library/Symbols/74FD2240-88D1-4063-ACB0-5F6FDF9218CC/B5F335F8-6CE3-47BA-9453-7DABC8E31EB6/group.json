@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B5F335F8-6CE3-47BA-9453-7DABC8E31EB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "210C4BF1-DA9F-4FA9-A230-96BAA76AE938",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5AB9DD82-3853-4E57-8C8B-BBA0E88702C5",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81638893-E8E9-4D03-9D47-A3B761FAE30E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D1F279F-3AB3-45EC-94EA-DBB86C5FF255"
+    }
+  ],
+  "name": "ic_leak_add",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26E52AAB-CCE7-4F76-9AD2-D25087CEAE5A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

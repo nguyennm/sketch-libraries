@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "D2C4BF6B-AB76-4C83-AB2F-9FA1CB2F50DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE19C311-4205-41ED-90D4-B53736A9DAA8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "15578208-7C2F-4243-A557-C66D78BDF7BD",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "092DD2DB-73B6-4588-8872-B68E2BB0E89F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D58792AA-B47C-4EA9-952E-8A74A128E766"
+    }
+  ],
+  "name": "ic_cake",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C692277-8FD4-436D-A4B7-0C175ED7D202",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

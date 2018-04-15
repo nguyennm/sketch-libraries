@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7124A6B3-3762-4E4F-9F13-82CCA51B6D28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4357B3F-BB55-4722-9BB0-830B168368D5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B92BFB3A-FB2E-4402-B679-357CA0428A6F",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0EA9BFDD-A934-452A-8D22-A45C3501A893"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F97720D5-7226-4AEA-AFD1-D05F1237BBA4"
+    }
+  ],
+  "name": "ic_chevron_right",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EAC3EC5-C667-40D5-B914-BDC8C5A66663",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

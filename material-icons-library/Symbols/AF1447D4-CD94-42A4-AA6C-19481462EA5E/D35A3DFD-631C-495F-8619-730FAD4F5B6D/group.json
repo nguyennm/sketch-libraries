@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "D35A3DFD-631C-495F-8619-730FAD4F5B6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D77A52D5-BD90-48D1-BA8E-56F1F1E216E7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C35C2A27-42A2-41B8-8429-442EC8EE6684",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "71DCA92B-F391-4271-81E3-CE4E189A986D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0957EB1-BB92-4B49-A60A-F1D46D5E3EDC"
+    }
+  ],
+  "name": "ic_switch_video",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65C17F8C-54FC-4BA0-83A3-A7B12C8F5F7F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

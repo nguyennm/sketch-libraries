@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B76CC9A1-67D3-40CB-81FF-E72361BF9F09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9B3557B-77BA-410F-AC52-BEEFD5B8869A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DEC31EDC-8841-4BE8-A988-A23E2E0CA88B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "166C6FB7-7E1A-44E9-97F5-6B16412EE13D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E46D034C-2E1D-4D52-83A8-B202A7B1BA59"
+    }
+  ],
+  "name": "ic_account_balance_wallet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1317F42-80F0-4873-B516-AEC4947E5A7A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

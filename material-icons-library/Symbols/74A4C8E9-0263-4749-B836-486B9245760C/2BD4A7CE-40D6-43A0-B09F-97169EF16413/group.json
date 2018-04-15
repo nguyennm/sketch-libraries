@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2BD4A7CE-40D6-43A0-B09F-97169EF16413",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADE45EE1-DFB2-4FFD-A067-17BDEB79B18D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FE8F50D2-838B-461A-885A-D15A95A87ACE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5758D798-EBBC-4C5B-BB02-E6090E303608"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7C7AA54-610B-4CBA-9ED9-B0ECB459D056"
+    }
+  ],
+  "name": "ic_slideshow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C4A9940-880D-4BE7-894D-D36CECD6AE97",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

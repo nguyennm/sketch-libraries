@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "530A517F-21B7-4AA6-B051-EE2BEB41A761",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E2F981C-9B2F-4485-8C2B-F7BB444D615A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9DAE6E51-F228-44DB-80C8-A5946409A050",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8CCCDD12-EE85-4C28-B5DF-A0DAA162CF72"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1209A4FC-0677-4827-8BB4-4EC037E557D2"
+    }
+  ],
+  "name": "ic_business",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A1BF718-4F7B-45B4-8C42-18EC229583B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

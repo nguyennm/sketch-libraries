@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0A295532-3883-45B8-8955-B856048C5A56",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "F3043B73-C161-44CA-A36F-80D78917AC67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B586C8DB-8428-4189-88A3-91FA5A006145",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "462BCE63-5756-4B00-A827-53E725B1F7E1",
+    "height": 24,
+    "width": 24,
+    "x": 2016,
+    "y": 2108
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F9854F80-CA8A-4571-ADB9-DF5A9EE30F11",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DE358523-8485-42A4-9ED3-D211F91337C9"
+    }
+  ],
+  "name": "Icons/Social/ic_person_add",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3A17737-7184-440B-8A55-BC63D2051D4A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F8C43B45-2DD0-44F1-A05B-EA921C38DE0F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "39077E9C-6960-4D3E-9F23-459E3AD442A8",
+    "guides": [
+    ]
+  }
+}

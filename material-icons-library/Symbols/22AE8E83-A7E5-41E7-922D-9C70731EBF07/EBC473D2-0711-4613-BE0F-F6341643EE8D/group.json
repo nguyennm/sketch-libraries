@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EBC473D2-0711-4613-BE0F-F6341643EE8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EECE0F54-A927-4509-A467-2C4F55D599D2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5CD34380-B68C-4ED9-B00D-7C184AC636FD",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "174DC3E5-903D-443C-8412-6EBF77B43B46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "617A87CF-0892-4093-9AFE-48EF563AA127"
+    }
+  ],
+  "name": "ic_brush",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "46D76478-6AAF-459A-A6A2-68C79C3C7D99",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6422D3BB-0C30-466D-9146-82C403A5D4EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78EBE571-AB9E-4956-996D-DA1B3F6A46F1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E78161E4-D890-40B1-B6FD-907CEB7409F6",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5900C6CC-8C7F-4B9C-8F4C-C64F451CB94B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FA9B797-E0DB-474E-9CED-90F5786730AF"
+    }
+  ],
+  "name": "ic_youtube_searched_for",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BAEB18C-E6D6-433A-BCC5-ACA4889359C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

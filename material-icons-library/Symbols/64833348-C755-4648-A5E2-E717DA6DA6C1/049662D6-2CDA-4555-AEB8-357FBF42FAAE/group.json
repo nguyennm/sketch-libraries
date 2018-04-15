@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "049662D6-2CDA-4555-AEB8-357FBF42FAAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F3B6F41-973D-4FAA-AF3E-BBF613035149",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5CD682A4-E2D8-4E0F-B2AC-187B6B64893A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "724DEED1-6A45-4607-BDE0-2391F36DFF92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8744CB1B-8A6E-43F8-859E-4B3C442DC9E6"
+    }
+  ],
+  "name": "ic_perm_contact_calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C74D5031-D673-4FD7-914E-39C31FFF9BD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

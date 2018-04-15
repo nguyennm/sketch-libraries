@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AFD56A83-1E5E-4D3B-B0AA-E689864E3E6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8547EDD4-B985-468A-858C-92DF634F872D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1C9692AA-5514-4138-837F-1E9C185EDC3D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "13D61CD5-FD21-4A47-A16A-128700FA8BB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BC09E0C-3103-48B8-9AF3-06EDFEF9AB3B"
+    }
+  ],
+  "name": "ic_touch_app",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC17A6F3-6C00-4046-91D2-1ACCA55EE982",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

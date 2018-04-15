@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EB721090-B180-4183-ACFA-D200A8649DEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B999D842-5FF9-4E34-A8AC-166F70479621",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "70E4F41D-6B0A-47EA-9D4C-01CA122227FE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84631EFC-4BA9-4AF8-A179-C43425619CB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BF4DE6E-30CE-45AE-9219-51F9BB28A362"
+    }
+  ],
+  "name": "ic_card_membership",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50BD3753-B514-44CB-816B-2177B7FF27F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

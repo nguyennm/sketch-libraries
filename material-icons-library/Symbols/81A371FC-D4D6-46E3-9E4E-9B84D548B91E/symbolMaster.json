@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "605F162E-8218-47DA-BA5B-B2086C04F84E",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 15,
+  "do_objectID": "81A371FC-D4D6-46E3-9E4E-9B84D548B91E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FB01129-6663-422A-8242-286CE11BEA2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A528F4EF-28E6-4B36-9AF6-F734764CDEF9",
+    "height": 24,
+    "width": 24,
+    "x": 896,
+    "y": 3720
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6363F9A9-2C6D-4D50-84E8-03923FDFB0AE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "12B0D6A8-19A6-4B03-A435-516D5CFC853A"
+    }
+  ],
+  "name": "Icons/Device/ic_network_wifi",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAFA584C-0CD4-466F-89E8-277109F0772C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DDD0565A-A3D7-4802-BDDE-2BD334AFD512",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AD6F664D-D386-4171-9EED-0DE94736B94C",
+    "guides": [
+    ]
+  }
+}

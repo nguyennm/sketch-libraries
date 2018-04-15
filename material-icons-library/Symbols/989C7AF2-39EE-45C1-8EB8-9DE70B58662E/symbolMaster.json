@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "21DF3140-2734-4FD8-A06E-067015146E79",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 15,
+  "do_objectID": "989C7AF2-39EE-45C1-8EB8-9DE70B58662E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A893802-D351-4A15-BE45-0DCB83A79DCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32060F11-C499-4541-BBB6-B109DB955080",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 20336
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AF746A26-5CCC-4464-AF1B-A8A80EF167CC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "35F87565-481B-45A2-86A8-819E8A088085"
+    }
+  ],
+  "name": "Icons/Action/ic_shopping_basket",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6ACB25E-4F62-4B4C-A02C-7E92868E8C0D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF520FE0-5B33-4910-B24E-22F095284A5B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ED8BFEF7-C033-4FF6-99E9-876F3DC00C01",
+    "guides": [
+    ]
+  }
+}

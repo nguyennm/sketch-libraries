@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E33F1675-3EA8-46B3-9481-412A40017338",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B92C8B76-0624-41A7-A6B2-A317E36D3201",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FDD1D73F-8226-45E1-8555-1CC0C4F174B5",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BBE5A9C-90CE-4899-802B-EEE50743DD62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C28FD523-D0D5-4579-8B31-F9C226DB773A"
+    }
+  ],
+  "name": "ic_weekend",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6E5E11B-32A7-4087-854D-56C9AAA9FA65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "48D5FF30-CF39-4721-9421-DE3A40958EE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C63051ED-A9C0-4DF9-84E9-2A71487B5381",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A6B8ABCF-4236-442B-B6D8-76B6C198C5CA",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "183C51A6-8392-450E-BD7C-1A5381C09E33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C78C117E-4BAF-4D50-9013-C0CA313D0102"
+    }
+  ],
+  "name": "ic_pets",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "467128AB-5408-4703-9233-F8842D4E22EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

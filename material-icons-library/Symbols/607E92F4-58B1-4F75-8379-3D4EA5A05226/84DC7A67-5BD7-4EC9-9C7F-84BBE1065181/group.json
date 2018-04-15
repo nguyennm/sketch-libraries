@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "84DC7A67-5BD7-4EC9-9C7F-84BBE1065181",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98CEA387-FFE1-449E-BAE2-10F683A43A24",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F5E86D2B-373C-4C61-8032-204C6228D44F",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BEB4127-CE82-4CDB-B3A0-A39A424C9C89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25F078A5-B51C-456E-A457-E57C863A2AFC"
+    }
+  ],
+  "name": "ic_tv",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D3F56AE-68BC-41B0-BAEC-E4D358FA24F0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

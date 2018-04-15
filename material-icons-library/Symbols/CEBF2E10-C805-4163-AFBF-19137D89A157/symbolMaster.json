@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "233B7908-14AC-428D-BC06-F8454ADA4DF1",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "CEBF2E10-C805-4163-AFBF-19137D89A157",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92F0B2EB-D6DE-41F3-9621-3EF19338007F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9A9BDD4-A643-42B9-BDF4-D4F9B9889B94",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 1116
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D71EC79-E10B-408E-A1B3-2E689F6FBD47",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A2B159BA-9A23-49C4-86FE-351A27609403"
+    }
+  ],
+  "name": "Icons/Hardware/ic_gamepad",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F70F310-5B3E-4C72-86E6-EB6C80CEDF3C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97E4EBD1-B725-47D1-8924-88E85CC5CB7A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05C3D5FD-A5DB-4725-B0A6-BEA2C8EC2558",
+    "guides": [
+    ]
+  }
+}

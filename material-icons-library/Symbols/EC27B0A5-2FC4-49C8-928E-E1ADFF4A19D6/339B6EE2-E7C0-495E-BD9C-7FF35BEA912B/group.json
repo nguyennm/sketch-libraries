@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "339B6EE2-E7C0-495E-BD9C-7FF35BEA912B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4BD1513-3F4F-449A-BE2E-E411377969B9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4BF32C5D-004D-4C83-BCEC-BDFB29159A6A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "793FCC9F-81CD-4842-860B-E61166EE80B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "302F471D-9A43-4321-87C8-130C7007A59F"
+    }
+  ],
+  "name": "ic_videogame_asset",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9588ADD-58C2-47C3-8D2D-7B1A7A9ABB1B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4957968E-8364-4C2F-AFE6-36806227CE74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EADA75AA-7F5C-46A3-B7D4-C701C432156E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2D61C58B-CD9E-4A63-9693-957670A9FBC5",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "738AAA4B-CC0C-4BF3-8E4D-9514A0E7C192"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD8CC793-5FD5-4BBE-BCB4-B9E40FB1B6DE"
+    }
+  ],
+  "name": "ic_view_compact",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B74AEC7-C47F-4A17-9BD4-2B7D88DA2205",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

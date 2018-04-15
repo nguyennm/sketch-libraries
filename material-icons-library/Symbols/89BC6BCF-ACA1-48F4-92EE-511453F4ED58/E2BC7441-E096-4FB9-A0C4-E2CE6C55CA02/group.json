@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E2BC7441-E096-4FB9-A0C4-E2CE6C55CA02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C1C5D34-6307-4FA4-890C-F24FC5756D27",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1AC30992-D43E-45A3-9598-C2D8B54F0744",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4EF270D9-BCD3-48DA-8BA1-9C35D5CBB14E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F9F7873-363D-47A4-8E82-B14F541A60A5"
+    }
+  ],
+  "name": "ic_filter_drama",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "735D4FB7-6C16-419E-BA2F-E0F0D1133166",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

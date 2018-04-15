@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F59E0D75-4491-41B1-82D4-4E75518E041E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "684933FA-CA5D-4C24-9C11-407FF1AE10E6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3DD030C7-5333-4654-B478-F3E5DBD15843",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AC2276AF-282D-4BAC-8766-186AE91EF063"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB2C55F6-6FB9-4642-928F-7A09EB7FB614"
+    }
+  ],
+  "name": "ic_loyalty",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "406E036F-EA98-4144-9C97-4904F73220F7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6E104937-4761-4458-B308-FDF423C778B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A588ABFB-45FA-4935-AB5D-3443A0F4BA5C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5902BD1E-E7D5-4356-9FCC-4B1484DBCEA0",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A6ED491-3163-4A25-8B59-83273AA0A372"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7727C80C-061E-4B1D-ADFB-49F1C5FA4CC7"
+    }
+  ],
+  "name": "ic_cloud_download",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7033F0DD-E896-4055-AEB0-6BCE915B428E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

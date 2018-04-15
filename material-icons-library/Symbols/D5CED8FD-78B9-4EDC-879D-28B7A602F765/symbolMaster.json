@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2F49528D-A339-4F4C-B2E1-F7B48B36748D",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "D5CED8FD-78B9-4EDC-879D-28B7A602F765",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C5AF62F-24DA-4C7E-99C7-A5001D7FE277",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "113C28C2-25E9-4D47-9F7C-632CEB9FF2EE",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 5828
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF4008B5-3CE9-4AA3-8DB5-270FC4A9E820",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0972D9C4-A0C3-42D8-AC95-C7C88A6FBE68"
+    }
+  ],
+  "name": "Icons/Hardware/ic_watch",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "166B7E68-5732-4EBC-81EC-D5DED2795B1C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EF97CD6F-E6AB-4A82-BFA6-6FBF99D46370",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A26D883D-B3AF-4545-98F6-71EA93A77AD7",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "87F6DE3A-EE49-4C00-AEB9-6C7A4E059A26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "335B46CC-E353-4830-B7AC-64F0DACB987A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C4835BAA-C53F-4D90-A54C-6EFBDB414A9E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D2F8F4C-89AC-4F27-A74D-692C440F02BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F26E3EB8-5BAE-4E47-8E1C-8EE0FAC28B43"
+    }
+  ],
+  "name": "ic_timer_10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC635806-9612-459B-ABBE-99F417A9BE43",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

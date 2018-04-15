@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2AD8E874-1EA5-4714-AD0C-46221554D331",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0ACFCE45-AC2A-4A4B-BA6E-62C7F209A1EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "266260BB-AB7F-4B76-8AFF-941EB445261A",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1769F2A-721F-4303-A028-49A26226371A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFEC89DA-F737-4269-B6D2-4536C275F3CC"
+    }
+  ],
+  "name": "ic_panorama",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0822D14-8DCA-4CD8-9AB8-A7767E749758",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

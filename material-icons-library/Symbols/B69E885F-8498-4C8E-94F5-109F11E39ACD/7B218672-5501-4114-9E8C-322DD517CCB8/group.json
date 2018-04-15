@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7B218672-5501-4114-9E8C-322DD517CCB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4C03848-D29E-416B-B12E-673500EE17A7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "77442FAC-9B1B-4447-B2A1-6AFA8DC63628",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6800009-35FF-455C-80F0-120DD40C3343"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE98CE0C-8DBB-497B-8C9B-BCC8A85F3115"
+    }
+  ],
+  "name": "ic_cloud_circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7912B3FD-3037-4B41-8A6E-47A4A0DA78EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

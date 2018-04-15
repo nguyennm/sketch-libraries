@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "210F7645-D77F-408D-A8A9-8195FE1A4EEF",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 15,
+  "do_objectID": "5F2FA71F-33FE-40C3-AE2A-AAC858C29D9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82A42AE7-DA6D-4681-BDB0-EBB1C754657B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65CA5C32-C450-41D5-BC3A-461EED02EC67",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 11408
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9AD62AE0-4827-45B1-92B0-183DAB3B4707",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4816A150-4C2F-4508-BC13-BB848BA798E3"
+    }
+  ],
+  "name": "Icons/Action/ic_label_outline",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A30059B1-3393-4004-9847-713930351FD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "13296DF9-9321-4EC3-8410-27155A1B455E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BF27074A-E181-44BF-B898-1AE53A9B3D29",
+    "guides": [
+    ]
+  }
+}

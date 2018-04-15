@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7D3E7D7E-E673-40DC-8696-88C6E9C83467",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03244EC6-F84C-4B83-A7FE-87E955096212",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AC5A14D2-EBE5-4C66-8CFD-692833B43CEC",
+    "height": 24,
+    "width": 23.99999999999994,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63384331-9330-401E-AC84-93EBF4A12E28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E43CF2F-D8E4-4086-BA8E-EE11A469AF9C"
+    }
+  ],
+  "name": "ic_signal_cellular_null",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BEFE405-544A-4B2E-9641-D2318417E63B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

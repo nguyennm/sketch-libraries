@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "F17D5103-4813-4541-A8B9-E0F6A94D7A5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13C8A80E-BB9B-4E96-9595-003815ACA34E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C82D5086-7CFF-48F6-A8D9-3B8EFEC91391",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89A3094C-DD69-4440-93B0-5593E96B49FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A038DDC5-37F1-480A-898F-C84B1A3037E2"
+    }
+  ],
+  "name": "ic_headset",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "684EE949-340E-4B4B-880E-0B573066AFE7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

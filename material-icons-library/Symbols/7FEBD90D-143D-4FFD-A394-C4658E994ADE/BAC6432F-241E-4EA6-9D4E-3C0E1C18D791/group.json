@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BAC6432F-241E-4EA6-9D4E-3C0E1C18D791",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D39FC0C-EFB9-4F24-9C2D-2702E49C4218",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0C098356-35AE-452D-B1F1-547839CFA52C",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5903D626-C39E-4AAE-B9B9-40D4FE2E4A5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C6EFD32-94C6-4B31-ADCA-D4A89CFC0CBC"
+    }
+  ],
+  "name": "ic_polymer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19CCEF75-BA05-4833-847C-04234DE75906",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

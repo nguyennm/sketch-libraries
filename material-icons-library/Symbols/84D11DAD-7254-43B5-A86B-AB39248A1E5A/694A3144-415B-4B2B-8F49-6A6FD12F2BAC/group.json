@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "694A3144-415B-4B2B-8F49-6A6FD12F2BAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5703104-4BC6-4321-86C0-47F67C0A37D5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F4839887-101F-4175-8AE1-0A28A8561A7E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "158C3315-B05C-46EE-936A-7EDB9986E2E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7277B499-279D-4275-811E-1B6665039727"
+    }
+  ],
+  "name": "ic_wb_sunny",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE5C7C9F-D364-4DC0-8B6C-10CA49F3FA65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

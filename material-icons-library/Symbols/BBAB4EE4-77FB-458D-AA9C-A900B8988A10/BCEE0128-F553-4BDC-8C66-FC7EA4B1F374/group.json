@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BCEE0128-F553-4BDC-8C66-FC7EA4B1F374",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64FE1611-DB43-461C-9149-700C4C14C2F3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "205C1662-C90A-4FCF-AA43-09BFA385EFCE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "250E25FF-7C64-4BDD-BA77-1EF957471B94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50CF6902-7163-4C77-97BC-BDB015D033E5"
+    }
+  ],
+  "name": "ic_desktop_windows",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BE66DD5-A07F-440E-BC2C-284FD7D3C6A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "C64BE3F8-8333-450D-8327-EF85A286DE19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8506507-983D-4028-B1E0-D81F485E5A55",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "97E2A43D-3DB8-431E-9C69-21FC23D8484D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CEC31A84-0B00-445F-950A-8581BE03CCC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25604017-987D-41B6-B8DD-1DE7CAD04EF1"
+    }
+  ],
+  "name": "ic_chat",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F8DFD41-EBD6-4081-98EF-97B884CBDB24",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

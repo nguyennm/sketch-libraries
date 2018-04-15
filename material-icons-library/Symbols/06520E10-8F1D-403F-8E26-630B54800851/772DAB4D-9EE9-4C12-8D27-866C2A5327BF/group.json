@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "772DAB4D-9EE9-4C12-8D27-866C2A5327BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09CDB250-AFB9-4092-AC35-3DDADC9A5710",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7D005691-E015-46CB-BDD5-9830E6A9457E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "21AD02CB-2C15-496B-8F69-DAE39DA8D812"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F0B0486-17E8-455C-9D15-66F6DBF246B3"
+    }
+  ],
+  "name": "ic_signal_wifi_4_bar_lock",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "687E6A83-034A-4A9C-A067-39DCC7B3965D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

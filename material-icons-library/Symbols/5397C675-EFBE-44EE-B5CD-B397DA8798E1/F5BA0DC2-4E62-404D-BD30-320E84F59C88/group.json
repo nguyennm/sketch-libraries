@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F5BA0DC2-4E62-404D-BD30-320E84F59C88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48D0A26E-352E-477E-B93B-728D76BE3FF4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5FF4E70E-CE49-4E4E-A87E-DBA2F415639E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "080EE22A-5C64-4DCA-AEEC-73A956ECC085"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A440895-7BF3-48FC-8A89-7A7F4752C56C"
+    }
+  ],
+  "name": "ic_shopping_cart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E86F9E44-7374-4150-A95D-7D638B39D557",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AA35C332-7B5D-4AF8-8A24-D576BE4122B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "330204FE-AF54-482B-8522-113756A5E610",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "95AF4831-863B-4FF2-BC78-64D307016DCE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CEDEA95-1209-4041-A6A0-29AEA1B61B9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "86A1A87F-4AAD-4310-B51C-169D8247FD1C"
+    }
+  ],
+  "name": "ic_remove_red_eye",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4331BFCB-DF7F-4DC6-AFFC-DF12A23DEC6A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

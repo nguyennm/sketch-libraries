@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B9C21B5E-0907-45A7-8D22-BE46ABAD327C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "674D11F0-1884-4E5D-9FDE-6F7342607567",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C91F497D-4217-41E3-A06C-4245A747CD8F",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E59675DB-CDCA-41F3-8DDD-608FEEE5B974"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "162EBE4A-A743-46A6-AE3B-823063630B15"
+    }
+  ],
+  "name": "ic_room",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBCD0CC6-B796-4166-A645-F70A1EB2BDED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

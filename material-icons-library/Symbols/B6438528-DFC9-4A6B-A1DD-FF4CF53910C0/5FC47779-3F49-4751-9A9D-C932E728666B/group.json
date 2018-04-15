@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5FC47779-3F49-4751-9A9D-C932E728666B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7B6DF70-4E6A-4DBF-A7E1-81943F3A98C1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "09ACACED-D165-4C88-BE51-FDB9C9E6066E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B8A71F83-63D0-430C-965F-9525D3B7878D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9FCE86F-57C0-4406-AFFC-4B672D49C839"
+    }
+  ],
+  "name": "ic_receipt",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F7719F-3E8E-47BE-859F-C480C28E773D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

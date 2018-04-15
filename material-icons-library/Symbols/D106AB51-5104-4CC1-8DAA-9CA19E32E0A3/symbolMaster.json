@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "803BC2DB-5BE3-4BB3-90DD-7E16C19ADE95",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 16,
+  "do_objectID": "D106AB51-5104-4CC1-8DAA-9CA19E32E0A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA6AD87C-B43E-4FB8-94AA-6DA9A58E69DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "358A05A4-3E54-472E-BD3C-93D77C24C348",
+    "height": 24,
+    "width": 24,
+    "x": 1344,
+    "y": 2976
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B2094223-79A6-49BC-9088-973C7ABEC4ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "36A824AF-FF96-4FE8-8895-5E1E4AF8A516"
+    }
+  ],
+  "name": "Icons/Hardware/ic_laptop_chromebook",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFFC42FF-9662-40F4-82FD-5A5961BAD345",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51505A16-AA5C-4CA2-91F7-5D5D8D546DAC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2118DAF2-1669-46CB-851B-1289B3B131D3",
+    "guides": [
+    ]
+  }
+}

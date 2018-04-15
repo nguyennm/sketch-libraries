@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C6CE5529-8C43-4356-8252-E26AAE58C22B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4B7B1CC-88D1-4EC3-9CA2-A3B6D1883FD7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "21FFDAB7-4C88-4D7F-B3A0-2A6339FA2A09",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B532C89-DD58-4C32-9558-0565D3239CCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AE33DBC-BA48-4642-8348-0DCD0EC86B95"
+    }
+  ],
+  "name": "ic_sim_card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DC50503-9258-4F30-901B-2CE880261EEF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

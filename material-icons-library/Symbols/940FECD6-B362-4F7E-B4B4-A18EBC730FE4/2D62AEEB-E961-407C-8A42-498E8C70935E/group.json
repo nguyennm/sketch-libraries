@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2D62AEEB-E961-407C-8A42-498E8C70935E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CD64D59-3863-485E-A8BA-09E6607F8CA6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F086BFDE-1E45-476B-8BA0-6A5EB6CA6080",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4FFFA1D-8F7C-4A2A-8DA9-5684833093E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB22E639-A785-4217-85AC-54C413F9D267"
+    }
+  ],
+  "name": "ic_battery_full",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B735F0A-8505-4B83-8584-AA101B6A5F30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
