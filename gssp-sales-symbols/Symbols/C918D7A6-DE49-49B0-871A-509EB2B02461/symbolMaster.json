@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BA4F4D90-2296-4D66-A2CA-566DD04057BF",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 34,
+  "do_objectID": "C918D7A6-DE49-49B0-871A-509EB2B02461",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED180949-65EC-48E2-84C1-962184F85BDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6983326D-CB53-4CFC-AC93-9A935568F60D",
+    "height": 21,
+    "width": 768,
+    "x": 14473,
+    "y": 1649
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A63E7740-4662-4B90-B196-3D21F9C7EBD4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2BA60C47-E110-40F1-8CF4-C0C1FB835677"
+    }
+  ],
+  "name": "statics/nav/postlogin-nav-drawer-tablet-collapsed",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25C4C010-99BF-43A2-BA16-46BA3AA0564D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6CF9ABD2-490D-4D63-ADA0-70502246A1B5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3EE4F810-D583-4199-ACFE-0046E59A419D",
+    "guides": [
+    ]
+  }
+}

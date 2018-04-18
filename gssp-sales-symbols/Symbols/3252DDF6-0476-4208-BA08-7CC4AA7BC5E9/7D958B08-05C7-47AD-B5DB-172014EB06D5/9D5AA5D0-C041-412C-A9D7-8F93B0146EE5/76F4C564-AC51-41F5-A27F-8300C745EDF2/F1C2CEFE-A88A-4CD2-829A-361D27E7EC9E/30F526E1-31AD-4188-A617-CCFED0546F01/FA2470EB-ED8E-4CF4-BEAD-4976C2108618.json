@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA2470EB-ED8E-4CF4-BEAD-4976C2108618",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D298BC20-45B2-4B08-8D19-5F7613168F81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6B7CD82-9A7A-4E65-913C-E801B0AAC4A4",
+    "height": 18.20444444444445,
+    "width": 17.51440329218107,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/send-email",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B38C698A-B33F-45A9-A30B-0025C0443079",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "74C27A76-B3B7-4A90-B87A-7B8D74E7C7E4",
+  "verticalSpacing": 0
+}

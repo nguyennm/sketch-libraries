@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUxMjM0NTY3ODk/QERMTU5PUFNXYWRnamtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANaU2VuZCBFbWFpbNMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgBOAFIAcgCCAEl8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVtOU1VuZGVybGluZdMREgomKx+kJygpKoAKgAuADIANpCwtLi+ADoAPgBCAEYASU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/nl5eXl5eYIz/enp6enp6m0jo7PD1aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPD5YTlNPYmplY3QQANIKQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESCkVIS6JGR4AWgBeiSUqAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1Ob3RvU2Fucy1Cb2xk0jo7UVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1E8PtI6O1RVXxAQTlNGb250RGVzY3JpcHRvcqJWPl8QEE5TRm9udERlc2NyaXB0b3LVWFkKWltcXV5fX1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEAKAH4AdgB3SEgpiY6CAHtI6O2VmV05TQXJyYXmiZT7SOjtoaV8QEE5TUGFyYWdyYXBoU3R5bGWiaD4QAdI6O2xtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom4+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAJcAngCmALEAtwC5ALsAvQC/AMEAxwDJAMsAzQDPANEA0wEAAQcBKQE8AUgBTwFUAVYBWAFaAVwBYQFjAWUBZwFpAWsBbwF1AXoBgAGJAZIBmwGkAakBtAG9AcoBzQHWAdgB3QH6AfwB/gIFAggCCgIMAg8CEQITAhUCKwJBAkoCWAJdAnMCdwJ8Ao8CkgKlArACuwLHAtQC4ALiAuQC5gLoAuoC7wLwAvIC9wL/AwIDBwMaAx0DHwMkAzkDPANRA2MDZgNrAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA20="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1F9CD4C2-1655-4B95-BC81-96D29C352255",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F062FD6C-F3DA-4D21-9AD7-9C4D54303884",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AEB1676-FE51-4049-9337-7CB1451A9E95",
+    "height": 19,
+    "width": 77,
+    "x": 19,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {76, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Send Email",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E22FA5C8-B3F4-4D1B-B2E7-2C6283C055F7"
+  },
+  "textBehaviour": 0
+}

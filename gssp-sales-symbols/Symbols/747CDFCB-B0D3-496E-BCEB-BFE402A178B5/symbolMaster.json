@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "29B97FB0-7B86-4CA6-8C01-FB51D58243AA",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2200,
+  "do_objectID": "747CDFCB-B0D3-496E-BCEB-BFE402A178B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C71CDC88-1B06-48BE-B09D-AA5D3467F35D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "808D4FC7-5665-44FD-8D93-22EC8E1A7503",
+    "height": 226,
+    "width": 201,
+    "x": 0,
+    "y": 3240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD43EED8-48B7-4C9E-BC81-C9EC2BC400AD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0014E088-3F49-4FC6-9AFD-4D672AEB410D"
+    }
+  ],
+  "name": "buttons/reports-dropdown-button-selected",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7137EF40-02F9-4AB8-A8FD-2C94C9D7B851",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FECB289B-0B6E-4D06-A458-BCE3D25CD503",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7DA1D6EC-A0CB-4124-9B80-B2029DC8C4BD",
+    "guides": [
+    ]
+  }
+}

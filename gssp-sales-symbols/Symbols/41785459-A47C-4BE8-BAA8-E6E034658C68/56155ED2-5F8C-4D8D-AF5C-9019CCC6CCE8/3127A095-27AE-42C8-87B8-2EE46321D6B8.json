@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3127A095-27AE-42C8-87B8-2EE46321D6B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A90C31A7-B31F-4FFD-9586-55F8B685D647",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA2F1B88-3936-4C0F-8F56-228A3FB7E4EE",
+    "height": 52,
+    "width": 650,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect/alerts/duplicate-shorter",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "930AD4DA-451F-471D-AD15-8A2069678890",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0777553D-41C5-436E-94D6-FC39844592DE",
+  "verticalSpacing": 0
+}

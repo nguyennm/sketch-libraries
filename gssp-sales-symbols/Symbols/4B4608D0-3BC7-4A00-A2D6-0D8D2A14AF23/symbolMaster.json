@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "36DA130C-500C-438B-B7F5-777F88F4B107",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 38,
+  "do_objectID": "4B4608D0-3BC7-4A00-A2D6-0D8D2A14AF23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4D5336B-F17F-4D9C-8BBE-C719433CD9DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F84746AF-B160-40C9-AC0B-8B69F90583B0",
+    "height": 340,
+    "width": 440,
+    "x": 1169,
+    "y": 2200
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26D66F0D-01DC-4A5F-AEB0-FF3230530A59",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C371DF9-B521-45EF-8A30-9D9C8F9A3B83"
+    }
+  ],
+  "name": "cards/na/life-tablet",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F314A24-DCBE-4C4B-8270-15430705FABF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7B0EDB4-B8F3-412B-B6A9-8A08CF8BD3F6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1DEEF24D-E1F4-4882-8D68-A0349485E5E2",
+    "guides": [
+    ]
+  }
+}
