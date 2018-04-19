@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 586,
+  "changeIdentifier": 587,
   "do_objectID": "656C6257-CFE2-44F5-8039-7CEB29052594",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "do_objectID": "021DEB54-0913-4D01-B047-70BD920AE2C4",
     "height": 352,
     "width": 1017,
-    "x": 13070,
+    "x": 13251,
     "y": 0
   },
   "hasBackgroundColor": false,
