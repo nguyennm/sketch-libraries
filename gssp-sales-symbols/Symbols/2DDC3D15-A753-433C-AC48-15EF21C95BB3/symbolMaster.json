@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8,
+  "changeIdentifier": 13,
   "do_objectID": "2DDC3D15-A753-433C-AC48-15EF21C95BB3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "do_objectID": "B5D0D1FE-8614-4521-8C81-DBE12E89D8F2",
     "height": 17,
     "width": 312,
-    "x": 11879,
+    "x": 12036,
     "y": 789
   },
   "hasBackgroundColor": false,
@@ -49,8 +49,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "4460598C-3693-4D49-A8AB-3B091562D2DD"
+      "class": "symbolInstance",
+      "id": "126420E6-2642-4CCA-B2E5-E1F3A4C90F1E"
+    },
+    {
+      "class": "text",
+      "id": "2BA7B9B2-62F6-47E4-B7FF-4E7006566E0F"
     }
   ],
   "name": "statics/misc/last-saved-message",

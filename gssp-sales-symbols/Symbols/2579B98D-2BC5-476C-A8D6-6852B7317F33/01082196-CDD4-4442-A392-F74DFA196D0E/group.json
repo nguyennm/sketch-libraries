@@ -33,11 +33,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ECD4461A-5E80-4334-B279-ECFF522491EE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "70413A90-8ADB-42E8-BDB5-E6B26DF58673"
+      "id": "A47E1892-5413-4657-A931-70C4B36BD909"
     },
     {
       "class": "symbolInstance",
@@ -49,7 +45,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A47E1892-5413-4657-A931-70C4B36BD909"
+      "id": "70413A90-8ADB-42E8-BDB5-E6B26DF58673"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECD4461A-5E80-4334-B279-ECFF522491EE"
     }
   ],
   "name": "Group 3",
