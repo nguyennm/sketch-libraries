@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ECD4461A-5E80-4334-B279-ECFF522491EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32859B00-171E-42A8-B177-B8452810FD23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF4C2B2A-C6D2-49B8-8336-A53F797E2FD8",
+    "height": 24,
+    "width": 219,
+    "x": 22,
+    "y": 10
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/selection-panel/header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBF93106-CAE5-45B9-954D-EE4752B30376",
+      "overrideName": "FC8DF3D0-7AE9-4D27-9F3A-71C8179D372F_stringValue",
+      "value": "Circles of Protection"
+    }
+  ],
+  "overrides": {
+    "FC8DF3D0-7AE9-4D27-9F3A-71C8179D372F": "Circles of Protection"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23A251AA-F36E-4117-B9E7-E44CACF1C631",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03B874AB-1B3B-4457-9C74-6C13FCB29DAB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D3E543AF-E431-4BDD-AB58-CB51587F8D94",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 112,
+  "do_objectID": "6B98EAAD-A1E1-46A7-B67E-EDED65BF14A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E299173-1C47-4506-B9EC-443B83AD8605",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A05F770-190C-450B-A02A-42DA1B90C9C4",
+    "height": 128,
+    "width": 401,
+    "x": 16446,
+    "y": 5543
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A88D47A2-EBB9-43A3-B734-13BEFBBECD3E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6DA59E2C-4465-44FC-89D5-78462AD46DFC"
+    }
+  ],
+  "name": "statics/prospect/prospect-profile-banner-desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0300714B-30CB-4E82-A36D-DCA7C1C87D76",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "20EA04E6-12C6-4C5B-98B1-2F325DFFD44E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "457538E1-CA3E-4FEC-889D-2D9FED0369F0",
+    "guides": [
+    ]
+  }
+}

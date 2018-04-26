@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7888D192-6FEA-468A-85B7-A2D63A9CED39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCA821A8-E530-4C08-80C3-96C539FE3078",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3B2F8F0-6228-43A6-87AE-B06AA458D36C",
+    "height": 80,
+    "width": 108.9400024414062,
+    "x": 216,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/life",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF86B827-592C-41D1-9E07-BBC4E3EBC0AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C2546EF7-E27A-48EC-8C0A-F954706A415E",
+  "verticalSpacing": 0
+}

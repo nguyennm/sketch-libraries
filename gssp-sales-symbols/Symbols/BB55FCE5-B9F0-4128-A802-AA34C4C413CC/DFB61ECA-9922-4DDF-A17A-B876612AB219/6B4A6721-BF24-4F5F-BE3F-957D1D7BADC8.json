@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6B4A6721-BF24-4F5F-BE3F-957D1D7BADC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01E74836-4217-4AC9-8A50-D48AF42EF7A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "635E2E83-402E-486F-B03D-F52510B2C7F5",
+    "height": 200,
+    "width": 200,
+    "x": 39,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/mag-glass",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ED9017E-B152-4EB0-AFF4-6087259A7214",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C555E9A1-8696-4C2D-95A2-3851E307C38F",
+  "verticalSpacing": 0
+}

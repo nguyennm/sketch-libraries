@@ -1,0 +1,57 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUxMjM0NTY3ODk/QERMTU5PUFNXYWRnamtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANUVmlld9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgBOAFIAcgCCAEl8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVtOU1VuZGVybGluZdMREgomKx+kJygpKoAKgAuADIANpCwtLi+ADoAPgBCAEYASU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/nl5eXl5eYIz/enp6enp6m0jo7PD1aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPD5YTlNPYmplY3QQANIKQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESCkVIS6JGR4AWgBeiSUqAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1Ob3RvU2Fucy1Cb2xk0jo7UVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1E8PtI6O1RVXxAQTlNGb250RGVzY3JpcHRvcqJWPl8QEE5TRm9udERlc2NyaXB0b3LVWFkKWltcXV5fX1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEAKAH4AdgB3SEgpiY6CAHtI6O2VmV05TQXJyYXmiZT7SOjtoaV8QEE5TUGFyYWdyYXBoU3R5bGWiaD4QAdI6O2xtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom4+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAJEAmACgAKsAsQCzALUAtwC5ALsAwQDDAMUAxwDJAMsAzQD6AQEBIwE2AUIBSQFOAVABUgFUAVYBWwFdAV8BYQFjAWUBaQFvAXQBegGDAYwBlQGeAaMBrgG3AcQBxwHQAdIB1wH0AfYB+AH/AgICBAIGAgkCCwINAg8CJQI7AkQCUgJXAm0CcQJ2AokCjAKfAqoCtQLBAs4C2gLcAt4C4ALiAuQC6QLqAuwC8QL5AvwDAQMUAxcDGQMeAzMDNgNLA10DYANlAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA2c="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1E09CA26-4CE9-41AD-B074-2335DC6F6AF6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B452957C-2AB2-425F-90E9-4BE197FAE701",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D02BDC3F-7BCE-4C91-A71E-0CC53C8C204A",
+    "height": 19,
+    "width": 34,
+    "x": 1,
+    "y": 164
+  },
+  "glyphBounds": "{{0, 4}, {34, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "View",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E22FA5C8-B3F4-4D1B-B2E7-2C6283C055F7"
+  },
+  "textBehaviour": 0
+}

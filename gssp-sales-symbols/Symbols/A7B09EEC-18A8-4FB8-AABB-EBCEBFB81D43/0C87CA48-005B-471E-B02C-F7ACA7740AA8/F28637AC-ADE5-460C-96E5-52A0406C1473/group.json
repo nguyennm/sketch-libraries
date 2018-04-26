@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "F28637AC-ADE5-460C-96E5-52A0406C1473",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "029343FE-B2DC-4C36-924A-3A8B46562617",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9A0DA25-5615-4EF9-8A55-0A2389563AEF",
+    "height": 49,
+    "width": 345,
+    "x": 21,
+    "y": 550
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "655A0C05-2D91-434A-A16A-7BCE9DD63690"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09B0C51D-FFB9-44E0-BC26-5D9CDF6069B6"
+    },
+    {
+      "class": "text",
+      "id": "3CBD6D3F-D982-434C-8E9E-D79CBC453F37"
+    },
+    {
+      "class": "text",
+      "id": "AF6CB3D0-9C9C-45BB-8788-527B3B26EBC0"
+    }
+  ],
+  "name": "Street Address 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E83D463D-548E-4C2A-B66A-EEB45CE14734",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

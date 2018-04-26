@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "091D7FA4-D8F6-4AB1-8B83-E3EF006EF968",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F740B069-3DE5-429D-ADBD-E861962B28F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CCAD494-2248-40C7-B761-27689D4226A1",
+    "height": 19.45393393393394,
+    "width": 90.20420947934628,
+    "x": 0.7610610727697226,
+    "y": 0.7101201201201275
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E46A1077-F78E-4BDA-A582-F53E8557E8F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "F44080FA-D0B6-4CC6-934C-F5C8B08485E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B61E64C-1168-474C-AC69-227EDBE8001B"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9A1561E-5847-4B9D-8931-380A74FB37A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "48706372-E0C3-4FCA-8F89-7222DEC25ABA"
+    },
+    {
+      "class": "shapePath",
+      "id": "BABBF4CB-70FB-4A79-8CD0-1C6B7F4D4304"
+    },
+    {
+      "class": "shapePath",
+      "id": "770980CD-D9AB-4BBA-8A96-4EC927DAF071"
+    },
+    {
+      "class": "shapePath",
+      "id": "75BF6817-7569-4702-A58F-4A51AEEA2988"
+    },
+    {
+      "class": "shapePath",
+      "id": "C82332F5-3ABA-4C38-B56A-1E5A853F9C0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA8377BE-A471-4E7E-A99C-9E4636FF125A"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61220750-E9A6-4F4E-9158-8841B5EECC96",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWltkaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA1dMT0cgT1VU0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscHR0fIIAKgBSAHIAcgB2AHoATXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZVZOU0tlcm5fEBBOU1BhcmFncmFwaFN0eWxl0xESCikuIaQqKywtgAuADIANgA6kLzAxMoAPgBCAEYASgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSPT4/QFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI/QVhOU09iamVjdNIKQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESCkdKTaJISYAWgBeiS0yAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAFhOb3RvU2Fuc9I9PlNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTP0HSPT5WV18QEE5TRm9udERlc2NyaXB0b3KiWEFfEBBOU0ZvbnREZXNjcmlwdG9yEAAjv4AXZ+HMylrVXF1eCl9gYWJjYltOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EAKAACNAMQAAAAAAAIAf0j0+ZWZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNlZ0FfEBBOU1BhcmFncmFwaFN0eWxl0j0+aWpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeia0FfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAkwCaAKIArQC0ALYAuAC6ALwAvgDAAMcAyQDLAM0AzwDRANMA1QECASQBNgFCAUkBXAFjAWgBagFsAW4BcAF1AXcBeQF7AX0BfwGDAYkBjgGUAZ0BpgGvAbgBvQHIAdEB3gHhAeoB7wIMAg4CEAIXAhoCHAIeAiECIwIlAicCPQJTAlwCZQJqAoAChAKJApwCnwKyArQCvQLIAtQC3wLxAwMDBQMHAxADEgMXAzEDNQNIA00DYgNlA3oDjAOPA5QAAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAADlg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E5E6FB3A-68CC-482F-9B20-7B12F7D6E8B8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12EFBDC6-03C9-4A80-84BD-4449BDD61DA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58A15B88-31DA-4AB0-B82D-03391A876782",
+    "height": 17,
+    "width": 192,
+    "x": 0,
+    "y": 19
+  },
+  "glyphBounds": "{{73, 5}, {47, 9}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "LOG OUT",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9C5F40AC-364B-40AB-B1EB-796379FADF5B"
+  },
+  "textBehaviour": 1
+}

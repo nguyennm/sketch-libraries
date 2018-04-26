@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "70413A90-8ADB-42E8-BDB5-E6B26DF58673",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A05FE894-94A4-472D-B598-B53D11DB1D0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32EA7E1A-F2FD-4664-BBA9-233941199CDB",
+    "height": 50,
+    "width": 272,
+    "x": 22,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/selection-panel/selection-pill",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8E06D5C-1802-4C8D-B8B5-1E4D2DB85571",
+      "overrideName": "6CDA19AA-B54F-4051-90A1-A7CA7A9C7B44_stringValue",
+      "value": "Circle 1"
+    }
+  ],
+  "overrides": {
+    "6CDA19AA-B54F-4051-90A1-A7CA7A9C7B44": "Circle 1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "681F0F20-D68C-42B4-A925-1A288E164C87",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36BA08D8-D67C-4D97-A81D-7F31D7DD687D",
+  "verticalSpacing": 0
+}

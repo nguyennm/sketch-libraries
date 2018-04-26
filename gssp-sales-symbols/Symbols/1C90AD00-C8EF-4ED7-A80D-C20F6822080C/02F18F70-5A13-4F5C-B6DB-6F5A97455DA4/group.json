@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "02F18F70-5A13-4F5C-B6DB-6F5A97455DA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "951BF2F2-4B1E-4CD0-B5DC-FDFE88DA2475",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F1B60DD-B222-4A43-8CA1-B98F18B3B23D",
+    "height": 24,
+    "width": 27,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2E0776B9-EF22-49AF-B4D1-ECABAC8D336E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A78A4F7-C4C7-4593-BE7C-44757CD9C842"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFC4F063-1B25-455C-9ADA-82879BA6E614"
+    }
+  ],
+  "name": "Hamburger Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23DA7AB8-8105-426E-A9F4-328E00F70C16",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

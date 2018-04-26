@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUxMjM0NTY8PUFJSktMTVBUXmFkaGlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANYRE9XTkxPQUTTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAQgBGAGYAdgA9fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVbTlNVbmRlcmxpbmXTERIKJisfpCcoKSqACoALgAyADaQsLCwsgA6ADoAOgA6AD1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojk7WE5TT2JqZWN0IwAAAAAAAAAA0go+P0BfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKQkVIokNEgBOAFKJGR4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXU5vdG9TYW5zLUJvbGTSNzhOT18QE05TTXV0YWJsZURpY3Rpb25hcnmjTjk70jc4UVJfEBBOU0ZvbnREZXNjcmlwdG9yolM7XxAQTlNGb250RGVzY3JpcHRvctVVVgpXWFlaW1xcWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAAQAoAcgBqAGtISCl9goIAb0jc4YmNXTlNBcnJheaJiO9I3OGVmXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZWc7XxAQTlNQYXJhZ3JhcGhTdHlsZRAB0jc4amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAWQBfAGYAbwB2AIMAhQCHAIkAkgCZAKEArACyALQAtgC4ALoAvADCAMQAxgDIAMoAzADOAPsBAgEkATcBQwFKAU8BUQFTAVUBVwFcAV4BYAFiAWQBZgFqAXABdQF7AYQBiQGUAZ0BqgGtAbYBvwHEAeEB4wHlAewB7wHxAfMB9gH4AfoB/AISAigCMQI/AkQCWgJeAmMCdgJ5AowClwKiAq4CuwLHAskCywLNAs8C0QLWAtcC2QLeAuYC6QLuAwgDDAMfAyEDJgM7Az4DUwNlA2gDbQAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAANv"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B2D0B325-3B49-40E4-89B4-92E2D8F986E7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61105003-AB9F-46A0-A52E-28978F2B39FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C936460-2D55-4233-BACA-E98846B10B1D",
+    "height": 19,
+    "width": 86,
+    "x": 18,
+    "y": 10
+  },
+  "glyphBounds": "{{1, 4}, {84, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "DOWNLOAD",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "F632A68C-4932-409B-B955-2758F85FFED9"
+  },
+  "textBehaviour": 0
+}
