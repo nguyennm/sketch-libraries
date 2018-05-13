@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E595DC3-7714-47F3-81F3-44F2E673A18D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7FD9BCF-19F1-4C3F-A0A0-0A6AE0780CBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "907FD977-94CE-4531-AEFC-C1F21FCA5415",
+    "height": 22,
+    "width": 21,
+    "x": 325,
+    "y": 17
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEB869A3-E7BB-48D7-81E1-7CA73EA612AE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "48A4F3F9-EFC5-4E12-A4D3-189DA4BBFE91",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "ADBC6AE0-5F1B-4081-8C98-9BB19CC187DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DA877D3-9A5B-49A5-B57E-A45356869C35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37CF4E39-868B-462C-B231-777CE50AD0F2",
+    "height": 95,
+    "width": 515,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "59788A60-EFD1-4C5C-B8FF-8B85C3FF8AAD"
+    },
+    {
+      "class": "text",
+      "id": "581AAF60-F3B0-423D-8654-6F48701100A7"
+    },
+    {
+      "class": "text",
+      "id": "17FA42EF-A6C5-4126-A543-F4E90D36208B"
+    },
+    {
+      "class": "text",
+      "id": "8B7CE35F-1057-430E-8497-0A54D1684BAD"
+    },
+    {
+      "class": "text",
+      "id": "4BF167FA-BBB2-4A10-8289-1D9C8A26AD0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "296EB11C-DD21-444F-980D-B19F0EDFDDC7"
+    }
+  ],
+  "name": "Beneficiary Pill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDD8EA08-1791-4CF2-9954-B269FDA3D141",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
