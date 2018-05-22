@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "do_objectID": "DAA30EBB-03E3-448A-8494-6DC3ED8A0B46",
     "height": 19,
-    "width": 579,
-    "x": 0,
+    "width": 176,
+    "x": 202,
     "y": 128
   },
-  "glyphBounds": "{{202, 4}, {175, 15}}",
+  "glyphBounds": "{{0, 4}, {175, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,5 +69,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

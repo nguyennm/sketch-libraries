@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 24,
+  "changeIdentifier": 26,
   "do_objectID": "B22D5482-FB60-4DC7-B841-65AD01C7A5DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +27,10 @@
     "height": 311,
     "width": 1043,
     "x": 12036,
-    "y": 1770
+    "y": 2734
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

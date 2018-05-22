@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "do_objectID": "4180C97A-77A0-40D6-A134-D6CC0A78A829",
     "height": 18,
-    "width": 579,
-    "x": 0,
+    "width": 99,
+    "x": 240,
     "y": 108
   },
   "glyphBounds": "{{1, 4}, {98, 11}}",
@@ -73,5 +73,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
