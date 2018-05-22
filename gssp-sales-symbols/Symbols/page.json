@@ -722,6 +722,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "EE478806-0485-4CFC-A5C1-E0142A469035"
+    },
+    {
+      "class": "symbolMaster",
       "id": "15CAC28A-0BC7-46A7-B1DE-F1FFC5187916"
     },
     {
@@ -1290,7 +1294,7 @@
     },
     {
       "class": "group",
-      "id": "283881FD-153A-404A-A555-5C860B1FC5C0"
+      "id": "8DC2C2AC-5049-4611-B047-278E173232EC"
     }
   ],
   "name": "Symbols",
