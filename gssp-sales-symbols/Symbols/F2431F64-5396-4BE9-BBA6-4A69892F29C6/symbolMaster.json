@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 63,
+  "changeIdentifier": 1077,
   "do_objectID": "F2431F64-5396-4BE9-BBA6-4A69892F29C6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE14B332-EA65-4D33-B8B5-3CBB4081B233",
-    "height": 60,
-    "width": 332,
+    "height": 100,
+    "width": 450,
     "x": 13484,
     "y": 2259
   },
@@ -46,11 +46,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4420E5AA-E6E2-4696-A1DE-EC96ABB13183"
+      "class": "shapeGroup",
+      "id": "58877E8D-962F-4C98-B192-223546A18C62"
+    },
+    {
+      "class": "text",
+      "id": "0655BD54-8B9B-4B2F-B225-682D0B8F285C"
+    },
+    {
+      "class": "text",
+      "id": "55FFC335-57EE-4F4D-A91A-5C37C9BCDFDF"
+    },
+    {
+      "class": "text",
+      "id": "E492C0A7-B01D-4EC4-8B7E-78DCCF93B738"
+    },
+    {
+      "class": "text",
+      "id": "BC38D358-3A71-443C-A8D3-0B61F636892E"
     }
   ],
   "name": "statics/misc/notification-item",
