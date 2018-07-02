@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 605,
+  "changeIdentifier": 714,
   "do_objectID": "C2927299-F8DC-4590-97E8-43E0BFAB7F6E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -59,6 +59,10 @@
     {
       "class": "symbolInstance",
       "id": "167CB5F6-80C4-473E-AA6C-B8EE5F445FE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FB4A4A7-497E-4170-AB93-C81119DB9367"
     }
   ],
   "name": "statics/prospect/search-result-card-tablet",
