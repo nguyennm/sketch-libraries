@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "3A62D1AF-40DF-4492-BDAF-F6C7171AF5E1",
     "height": 42,
-    "width": 61,
-    "x": 165,
+    "width": 84,
+    "x": 151,
     "y": 11
   },
   "hasClickThrough": false,
@@ -34,6 +34,10 @@
     {
       "class": "symbolInstance",
       "id": "B5829723-A3D2-4518-AA6F-5BB5B10FCEC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E552611C-43CA-4334-90B4-84573B137CC1"
     },
     {
       "class": "group",
