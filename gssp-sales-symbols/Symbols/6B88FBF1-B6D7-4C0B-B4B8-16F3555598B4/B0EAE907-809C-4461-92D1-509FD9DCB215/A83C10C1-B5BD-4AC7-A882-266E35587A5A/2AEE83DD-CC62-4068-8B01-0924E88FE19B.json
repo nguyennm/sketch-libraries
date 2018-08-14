@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "3024AE68-EBE7-40CF-98EC-D46A1F27D7BE",
     "height": 18,
-    "width": 418,
+    "width": 236,
     "x": 22,
     "y": 0
   },
@@ -37,12 +37,12 @@
   "lineSpacingBehaviour": 2,
   "name": "This is an info mess",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "sharedObjectID": "48AAD4A3-B225-431C-95AF-6FEC42B93333"
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

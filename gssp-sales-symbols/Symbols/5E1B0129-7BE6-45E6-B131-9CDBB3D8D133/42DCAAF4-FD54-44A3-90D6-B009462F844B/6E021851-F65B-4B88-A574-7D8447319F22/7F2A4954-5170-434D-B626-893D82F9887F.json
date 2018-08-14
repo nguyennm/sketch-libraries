@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "13CD7307-31C3-4BF1-A1D6-561A590EF776",
     "height": 18,
-    "width": 418,
+    "width": 244,
     "x": 22,
     "y": 0
   },
@@ -37,12 +37,12 @@
   "lineSpacingBehaviour": 2,
   "name": "This is an error mes",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "sharedObjectID": "48AAD4A3-B225-431C-95AF-6FEC42B93333"
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

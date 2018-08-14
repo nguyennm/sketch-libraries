@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "A1894C8A-7320-4900-9DF1-BFE340834F46",
     "height": 18,
-    "width": 418,
+    "width": 251,
     "x": 22,
     "y": 0
   },
@@ -37,12 +37,12 @@
   "lineSpacingBehaviour": 2,
   "name": "This is a success me",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "sharedObjectID": "48AAD4A3-B225-431C-95AF-6FEC42B93333"
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
