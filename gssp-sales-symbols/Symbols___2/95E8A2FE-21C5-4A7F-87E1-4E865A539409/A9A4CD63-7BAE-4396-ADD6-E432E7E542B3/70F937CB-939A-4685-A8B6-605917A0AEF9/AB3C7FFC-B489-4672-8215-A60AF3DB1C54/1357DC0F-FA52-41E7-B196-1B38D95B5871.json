@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1357DC0F-FA52-41E7-B196-1B38D95B5871",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEF6407A-D341-4060-B0DA-9745C83C3033",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01C8C2FF-B7E3-4FC8-B2C4-E9F6CE8CAC47",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 9
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "icons/notifications",
+  "nameIsFixed": true,
+  "originalObjectID": "6A5CB57E-301B-4FEC-9C4C-43344E3D16FF",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "772DC7BA-0E63-4F17-B6E1-A0E7A3432CEA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EC326B34-0876-4C5E-831C-7835D8DF59C9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

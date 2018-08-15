@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "DDAB08F0-AF94-4199-9E78-D51B2D0F40D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5027BFFA-0221-4587-8F7E-FBB73B295C0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A5D9EDD2-C3C3-42FB-87E6-485E6EFBFC87",
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F8C85A36-B1D8-41AE-BB37-9B4CFAA78767"
+    }
+  ],
+  "name": "agent-female",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBCEBEF8-D067-43D7-86FB-CE18C94AEBED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

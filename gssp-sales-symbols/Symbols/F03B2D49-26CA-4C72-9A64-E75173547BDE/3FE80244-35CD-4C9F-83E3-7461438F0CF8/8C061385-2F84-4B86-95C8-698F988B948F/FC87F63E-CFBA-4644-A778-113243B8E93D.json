@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FC87F63E-CFBA-4644-A778-113243B8E93D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E184A430-8137-42B1-8BF9-FBFFBC13F0E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C61252B-07D2-4331-8BF6-E5494B5A7BCD",
+    "height": 16,
+    "width": 9.73067026942168,
+    "x": 118.8860153256705,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/chevron-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0682B27-719A-40DA-9738-06963FC65D00",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E40CA5F-C671-47BE-A93E-F4ACAE62F1DE",
+  "verticalSpacing": 0
+}

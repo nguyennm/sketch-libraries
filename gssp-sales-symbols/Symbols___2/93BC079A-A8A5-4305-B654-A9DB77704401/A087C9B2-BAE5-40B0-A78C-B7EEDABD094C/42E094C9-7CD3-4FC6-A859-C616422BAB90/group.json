@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "42E094C9-7CD3-4FC6-A859-C616422BAB90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAAC533A-029B-4119-9649-CD2B1F9A43D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FE531FF-A827-47D5-9CD1-04CB6D2224C2",
+    "height": 450,
+    "width": 630,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CC67D0D9-BD0F-48F8-BBD9-28260EE04AD8"
+    },
+    {
+      "class": "text",
+      "id": "B50EC383-6B8A-4269-9852-A1C5C9316417"
+    }
+  ],
+  "name": "Log In Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B051FDCA-C29C-404B-9AF3-FAECD56C1465",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

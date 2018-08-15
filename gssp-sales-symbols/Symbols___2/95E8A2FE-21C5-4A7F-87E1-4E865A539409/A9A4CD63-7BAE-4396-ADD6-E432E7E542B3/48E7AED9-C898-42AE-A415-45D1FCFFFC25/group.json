@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "48E7AED9-C898-42AE-A415-45D1FCFFFC25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "077B68BB-3974-4420-B3CF-63D00C0A4C2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D905391D-7220-4499-A4D7-A39D666924E4",
+    "height": 32,
+    "width": 424,
+    "x": 15,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F280376D-9A41-45DC-B56C-3D60F65C3717"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF1BF130-2169-4476-B834-3DE244E962C1"
+    },
+    {
+      "class": "group",
+      "id": "F7832DEB-A97A-4D6B-9451-3F645C97B609"
+    }
+  ],
+  "name": "Text CoBrand",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2D32471-9C4B-4360-9F92-92E729334C43",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

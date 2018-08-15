@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUxMjM0NTY8PUFJSktMTVBUXmFkaGlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEA9ET1dOTE9BRCBSRVBPUlTTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAQgBGAGYAdgA9fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVbTlNVbmRlcmxpbmXTERIKJisfpCcoKSqACoALgAyADaQsLCwsgA6ADoAOgA6AD1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojk7WE5TT2JqZWN0IwAAAAAAAAAA0go+P0BfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKQkVIokNEgBOAFKJGR4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXU5vdG9TYW5zLUJvbGTSNzhOT18QE05TTXV0YWJsZURpY3Rpb25hcnmjTjk70jc4UVJfEBBOU0ZvbnREZXNjcmlwdG9yolM7XxAQTlNGb250RGVzY3JpcHRvctVVVgpXWFlaW1xcWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAAQAoAcgBqAGtISCl9goIAb0jc4YmNXTlNBcnJheaJiO9I3OGVmXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZWc7XxAQTlNQYXJhZ3JhcGhTdHlsZRAB0jc4amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAWQBfAGYAbwB2AIMAhQCHAIkAmwCiAKoAtQC7AL0AvwDBAMMAxQDLAM0AzwDRANMA1QDXAQQBCwEtAUABTAFTAVgBWgFcAV4BYAFlAWcBaQFrAW0BbwFzAXkBfgGEAY0BkgGdAaYBswG2Ab8ByAHNAeoB7AHuAfUB+AH6AfwB/wIBAgMCBQIbAjECOgJIAk0CYwJnAmwCfwKCApUCoAKrArcCxALQAtIC1ALWAtgC2gLfAuAC4gLnAu8C8gL3AxEDFQMoAyoDLwNEA0cDXANuA3EDdgAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAN4"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F90B1376-09AF-4E35-A026-CD105A37F70B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 144,
+    "x": 15,
+    "y": 10
+  },
+  "glyphBounds": "{{1, 4}, {143, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "DOWNLOAD REPORT",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "F632A68C-4932-409B-B955-2758F85FFED9"
+  },
+  "textBehaviour": 0
+}

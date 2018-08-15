@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9635A070-0C12-47EC-92FC-1721B20C3D33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45CE6E65-8FFC-4317-8B9C-47F54BAED198",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2028F419-4CAB-4C2C-B4BE-7A5B05A3BBF5",
+    "height": 29,
+    "width": 386,
+    "x": 14,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CA9712F5-3712-4B00-87D1-153008B1C422"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9D0EC5B-BDE6-434B-8DCA-6F2F13C1FE24"
+    },
+    {
+      "class": "group",
+      "id": "38912F84-4CC1-4281-BA6E-1C5FC5A12C8B"
+    }
+  ],
+  "name": "Text CoBrand",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B8E539B-B0C3-4503-807E-533FC411E2B7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
