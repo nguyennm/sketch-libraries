@@ -34,6 +34,14 @@
     {
       "class": "text",
       "id": "CA71C75E-1B55-438C-B961-C1FD1698D98D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9B09F88-A9D6-410C-99CA-51E6B26773CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABB88648-31D6-4716-B219-7E6E03BD021A"
     }
   ],
   "name": "Blue row Copy",

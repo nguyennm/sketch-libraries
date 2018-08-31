@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,6 +32,14 @@
     {
       "class": "text",
       "id": "44766877-3CDE-4CEC-9604-C9C1B85D141D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1FAFB56-1E25-41BE-89B9-A268FB27F95D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF878BA3-7AD4-466A-8DEC-9031232ED3D2"
     }
   ],
   "name": "Blue row Copy 2",

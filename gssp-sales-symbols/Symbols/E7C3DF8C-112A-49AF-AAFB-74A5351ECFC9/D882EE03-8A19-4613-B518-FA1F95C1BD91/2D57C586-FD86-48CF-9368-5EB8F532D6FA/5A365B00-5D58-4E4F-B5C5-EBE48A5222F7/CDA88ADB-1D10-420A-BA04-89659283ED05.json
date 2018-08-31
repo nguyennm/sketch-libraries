@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CDA88ADB-1D10-420A-BA04-89659283ED05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16EB68B4-D33E-4B43-B077-5C329A3EA952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "26A4B44D-ECED-48EC-AE19-08611B87CF47",
+    "height": 24,
+    "width": 24,
+    "x": 416,
+    "y": 23
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/download",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49D5E143-F697-4A33-A66E-563CD82C3C57",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "508B9D56-669D-45FB-8DDF-C9F6B365E5A2",
+  "verticalSpacing": 0
+}

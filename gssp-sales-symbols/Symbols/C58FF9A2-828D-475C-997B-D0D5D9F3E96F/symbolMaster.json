@@ -7,11 +7,20 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 227,
-  "do_objectID": "CEDA982C-3C5F-4F3A-8CE2-8EE414F99679",
+  "changeIdentifier": 58,
+  "do_objectID": "C58FF9A2-828D-475C-997B-D0D5D9F3E96F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -21,13 +30,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 228,
-    "width": 501,
-    "x": 10612,
-    "y": 4084
+    "height": 25,
+    "width": 24,
+    "x": 3258,
+    "y": 16622
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,15 +51,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0BE91330-9812-4F7B-8DFF-A9B28E2DD93B"
+      "class": "shapeGroup",
+      "id": "5EEABEA2-2DC3-47D9-93B5-BFCB78298D50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C4A1489-82B5-4149-8FDB-9CA7B095DA0E"
     }
   ],
-  "name": "statics/application/document-upload-list",
-  "nameIsFixed": false,
+  "name": "icons/download-hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,7 +75,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "8F5D58CE-D7FE-4F83-9746-A5BA0A9F6828",
+  "symbolID": "336710F9-61BA-424C-8C8D-EE68CD3FA982",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

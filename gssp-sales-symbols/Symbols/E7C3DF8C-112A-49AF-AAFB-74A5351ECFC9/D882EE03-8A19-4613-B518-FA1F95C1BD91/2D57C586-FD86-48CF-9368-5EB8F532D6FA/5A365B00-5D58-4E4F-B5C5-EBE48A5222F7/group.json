@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,6 +32,14 @@
     {
       "class": "text",
       "id": "32D35DC9-9C2A-416F-B018-C978BCDF8837"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDA88ADB-1D10-420A-BA04-89659283ED05"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCCD1AFE-9838-4F70-B868-8141297A7E65"
     }
   ],
   "name": "Blue row",
