@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2BEFD33D-A8AF-4A47-941D-EC019B391EDB",
-    "height": 477,
+    "height": 520,
     "width": 650,
     "x": 0,
     "y": 0
@@ -54,6 +54,10 @@
     {
       "class": "bitmap",
       "id": "8FA92E00-DACF-424D-9A62-6A13E3B094EB"
+    },
+    {
+      "class": "text",
+      "id": "4C2426A3-255E-4243-8C73-BF3681E8277C"
     }
   ],
   "name": "Group",

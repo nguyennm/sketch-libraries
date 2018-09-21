@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIwcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWltjZmltVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAIoADXxAZUHJlbWl1bSBQYXltZW50IFNjZW5hcmlvc9MREgoTGiFXTlMua2V5c1pOUy5vYmplY3RzphQVFhcYGYAEgAWABoAHgAiACaYbHB0eHx2ACoAUgByAHYAegByAE18QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtMREgopLiGkKissLYALgAyADYAOpC8wMTKAD4AQgBGAEoATU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0j0+P0BaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiP0FYTlNPYmplY3TSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBuAFdMREgpHSk2iSEmAFoAXoktMgBiAGYAaXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABdTm90b1NhbnMtQm9sZNI9PlNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTP0HSPT5WV18QEE5TRm9udERlc2NyaXB0b3KiWEFfEBBOU0ZvbnREZXNjcmlwdG9yEAAQAdRcXV4KX2BhYlpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc4AAEAKAH4Ah0hIKZGWggCDSPT5naFdOU0FycmF5omdB0j0+amtfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNqbEFfEBBOU1BhcmFncmFwaFN0eWxl0j0+bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicEFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAXQBjAGoAcwB6AIcAiQCLAI0AqQCwALgAwwDKAMwAzgDQANIA1ADWAN0A3wDhAOMA5QDnAOkA6wEYAToBTAFYAWsBcgF5AX4BgAGCAYQBhgGLAY0BjwGRAZMBlQGZAZ8BpAGqAbMBvAHFAc4B0wHeAecB9AH3AgACBQIiAiQCJgItAjACMgI0AjcCOQI7Aj0CUwJpAnICgAKFApsCnwKkArcCugLNAs8C0QLaAuUC8QL+AwADAgMEAwYDCwMMAw4DEwMbAx4DIwM9A0EDVANZA24DcQOGA5gDmwOgAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA6I="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5BFABFD9-E957-4752-88B3-750CF25209CA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 202,
+    "x": 1,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 4}, {200, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Premium Payment Scen",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CA30DAE4-54CD-4788-8EC2-21C29B9818E9"
+  },
+  "textBehaviour": 0
+}
