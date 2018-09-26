@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 264,
+  "changeIdentifier": 3727,
   "do_objectID": "34E5BE48-C3D5-49F0-8E0C-41245FF0D05F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4051015-74A2-418A-A75E-62B8ED195C3E",
-    "height": 520,
+    "height": 910,
     "width": 650,
     "x": 13484,
     "y": 465
@@ -46,11 +46,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "B0A1DF76-E368-4BB6-B668-A46787AF67D7"
+    },
+    {
+      "class": "text",
+      "id": "F83FAAF2-A5DA-467A-AD11-9B0FEFFFC03F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C5D553C-F92F-4BC3-9727-A4C46AE998D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC7E9997-7A2F-4943-A84C-AAA2F457E666"
+    },
+    {
       "class": "group",
-      "id": "096A6021-13E8-448D-893A-B6CDE257E7B9"
+      "id": "B1EDFB5D-9F6E-476D-B912-A4393DC207C7"
+    },
+    {
+      "class": "group",
+      "id": "502DFECA-B93D-4374-A480-B5D881F03AFA"
+    },
+    {
+      "class": "group",
+      "id": "2D1E2F25-CEBB-400F-8C9C-153C41C13C39"
+    },
+    {
+      "class": "text",
+      "id": "4C2426A3-255E-4243-8C73-BF3681E8277C"
     }
   ],
   "name": "statics/misc/e-sign-modal",

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "2D1E2F25-CEBB-400F-8C9C-153C41C13C39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 430,
+    "width": 590,
+    "x": 30,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A7E8AD70-7969-4519-BB39-D05D92D43406"
+    },
+    {
+      "class": "text",
+      "id": "5FAFEC37-1609-466F-962E-9F7EDA22ACDA"
+    },
+    {
+      "class": "bitmap",
+      "id": "8FA92E00-DACF-424D-9A62-6A13E3B094EB"
+    },
+    {
+      "class": "text",
+      "id": "0D63B019-DB9D-4579-AEF0-21C176B29EC1"
+    }
+  ],
+  "name": "e-sign",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

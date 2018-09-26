@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8FA92E00-DACF-424D-9A62-6A13E3B094EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "053D0D70-2C6E-4E2F-80A7-2FAE0A9E3CFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "28D23655-7CA0-412E-9A79-D4B75BF6B2BA",
+    "height": 176,
+    "width": 408,
+    "x": 91,
+    "y": 62
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7235eee7ff3212fb670fb759ff6199129c9e8c3d",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "signature_amy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C99EC9A-6C81-4BFE-94EA-9ED3636E65E9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
