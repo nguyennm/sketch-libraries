@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 430,
+    "height": 462,
     "width": 590,
     "x": 30,
     "y": 79
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -40,6 +40,10 @@
     {
       "class": "text",
       "id": "0D63B019-DB9D-4579-AEF0-21C176B29EC1"
+    },
+    {
+      "class": "text",
+      "id": "7C6C547D-8DE5-4190-846F-FEA9A915345B"
     }
   ],
   "name": "e-sign",

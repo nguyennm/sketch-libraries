@@ -16,9 +16,9 @@
     "constrainProportions": false,
     "do_objectID": "5056D73E-5E4E-4270-8637-C4E7D08F0375",
     "height": 40,
-    "width": 250,
-    "x": 370,
-    "y": 840
+    "width": 300,
+    "x": 320,
+    "y": 874
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -32,11 +32,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6_stringValue",
-      "value": "SIGN & EXPORT ILLUSTRATION"
+      "value": "SUBMIT & DOWNLOAD ILLUSTRATION"
     }
   ],
   "overrides": {
-    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "SIGN & EXPORT ILLUSTRATION"
+    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "SUBMIT & DOWNLOAD ILLUSTRATION"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
